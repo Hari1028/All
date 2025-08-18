@@ -1,0 +1,2217 @@
+<DOCUMENT>
+<TYPE>N-PX
+<SEQUENCE>1
+<FILENAME>appleton_npx.txt
+<DESCRIPTION>ANNUAL REPORT OF PROXY VOTING
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                              WASHINGTON, D.C. 20549
+
+                                   FORM N-PX
+
+    ANNUAL REPORT OF PROXY VOTING RECORD OF REGISTERED MANAGEMENT INVESTMENT
+                                     COMPANY
+
+ INVESTMENT COMPANY ACT FILE NUMBER:     811-10201
+
+ NAME OF REGISTRANT:                     Appleton Funds
+
+
+
+ ADDRESS OF PRINCIPAL EXECUTIVE OFFICES: One Post Office Square, 6th Floor
+                                         Boston, MA 02109
+
+ NAME AND ADDRESS OF AGENT FOR SERVICE:  Daniel T. Buckley
+                                         One Post Office Square, 6th Floor
+                                         Boston, MA 02109
+
+ REGISTRANT'S TELEPHONE NUMBER:          617-338-0700
+
+ DATE OF FISCAL YEAR END:                12/31
+
+ DATE OF REPORTING PERIOD:               07/01/2015 to 06/30/2016
+
+
+<PAGE>
+
+<TABLE>
+<S>    <C>                                                       <C>           <C>                            <C>
+
+Appleton Equity Growth Fund
+--------------------------------------------------------------------------------------------------------------------------
+ AKAMAI TECHNOLOGIES, INC.                                                                   Agenda Number:  934354072
+--------------------------------------------------------------------------------------------------------------------------
+        Security:  00971T101
+    Meeting Type:  Annual
+    Meeting Date:  11-May-2016
+          Ticker:  AKAM
+            ISIN:  US00971T1016
+--------------------------------------------------------------------------------------------------------------------------
+
+Prop.# Proposal                                                  Proposal      Proposal Vote                  For/Against
+                                                                 Type                                         Management
+
+1.1    ELECTION OF DIRECTOR: PAMELA CRAIG                        Mgmt          For                            For
+
+1.2    ELECTION OF DIRECTOR: JONATHAN MILLER                     Mgmt          For                            For
+
+1.3    ELECTION OF DIRECTOR: PAUL SAGAN                          Mgmt          For                            For
+
+1.4    ELECTION OF DIRECTOR: NAOMI SELIGMAN                      Mgmt          For                            For
+
+2.     TO APPROVE, ON AN ADVISORY BASIS, OUR                     Mgmt          For                            For
+       EXECUTIVE OFFICER COMPENSATION.
+
+3.     TO RATIFY THE SELECTION OF                                Mgmt          For                            For
+       PRICEWATERHOUSECOOPERS LLP AS OUR
+       INDEPENDENT AUDITORS FOR THE FISCAL YEAR
+       ENDING DECEMBER 31, 2016.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+ ALLERGAN PLC                                                                                Agenda Number:  934354565
+--------------------------------------------------------------------------------------------------------------------------
+        Security:  G0177J108
+    Meeting Type:  Annual
+    Meeting Date:  05-May-2016
+          Ticker:  AGN
+            ISIN:  IE00BY9D5467
+--------------------------------------------------------------------------------------------------------------------------
+
+Prop.# Proposal                                                  Proposal      Proposal Vote                  For/Against
+                                                                 Type                                         Management
+
+1.     DIRECTOR
+       NESLI BASGOZ, M.D.                                        Mgmt          For                            For
+       PAUL M. BISARO                                            Mgmt          For                            For
+       JAMES H. BLOEM                                            Mgmt          For                            For
+       CHRISTOPHER W. BODINE                                     Mgmt          For                            For
+       CHRISTOPHER J. COUGHLIN                                   Mgmt          For                            For
+       MICHAEL R. GALLAGHER                                      Mgmt          For                            For
+       CATHERINE M. KLEMA                                        Mgmt          For                            For
+       PETER J. MCDONNELL, M.D                                   Mgmt          For                            For
+       PATRICK J. O'SULLIVAN                                     Mgmt          For                            For
+       BRENTON L. SAUNDERS                                       Mgmt          For                            For
+       RONALD R. TAYLOR                                          Mgmt          For                            For
+       FRED G. WEISS                                             Mgmt          For                            For
+
+2.     TO APPROVE, IN A NON-BINDING VOTE, NAMED                  Mgmt          Against                        Against
+       EXECUTIVE OFFICER COMPENSATION
+
+3.     TO RATIFY, IN A NON-BINDING VOTE, THE                     Mgmt          For                            For
+       APPOINTMENT OF PRICEWATERHOUSECOOPERS LLP
+       AS THE COMPANY'S INDEPENDENT AUDITOR FOR
+       THE FISCAL YEAR ENDING DECEMBER 31, 2016
+       AND TO AUTHORIZE, IN A BINDING VOTE, THE
+       BOARD OF DIRECTORS, ACTING THROUGH THE
+       AUDIT AND COMPLIANCE COMMITTEE, TO
+       DETERMINE PRICEWATERHOUSECOOPERS LLP'S
+       REMUNERATION
+
+4A.    TO APPROVE THE AMENDMENT OF THE COMPANY'S:                Mgmt          For                            For
+       MEMORANDUM OF ASSOCIATION TO MAKE CERTAIN
+       ADMINISTRATIVE AMENDMENTS
+
+4B.    TO APPROVE THE AMENDMENT OF THE COMPANY'S:                Mgmt          For                            For
+       ARTICLES OF ASSOCIATION TO MAKE CERTAIN
+       ADMINISTRATIVE AMENDMENTS
+
+5A.    TO APPROVE THE AMENDMENT OF THE COMPANY'S                 Mgmt          For                            For
+       ARTICLES OF ASSOCIATION IN ORDER TO:
+       PROVIDE FOR A PLURALITY VOTING STANDARD IN
+       THE EVENT OF A CONTESTED ELECTION
+
+5B.    TO APPROVE THE AMENDMENT OF THE COMPANY'S                 Mgmt          For                            For
+       ARTICLES OF ASSOCIATION IN ORDER TO: GRANT
+       THE BOARD OF DIRECTORS SOLE AUTHORITY TO
+       DETERMINE ITS SIZE
+
+6.     TO APPROVE THE REDUCTION OF COMPANY CAPITAL               Mgmt          For                            For
+
+7.     TO CONSIDER A SHAREHOLDER PROPOSAL                        Shr           Against                        For
+       REGARDING AN ANNUAL REPORT ON LOBBYING
+       ACTIVITIES, IF PROPERLY PRESENTED AT THE
+       MEETING
+
+8.     TO CONSIDER A SHAREHOLDER PROPOSAL                        Shr           Against                        For
+       REGARDING AN INDEPENDENT BOARD CHAIRMAN, IF
+       PROPERLY PRESENTED AT THE MEETING
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+ AMERICAN TOWER CORPORATION                                                                  Agenda Number:  934393226
+--------------------------------------------------------------------------------------------------------------------------
+        Security:  03027X100
+    Meeting Type:  Annual
+    Meeting Date:  01-Jun-2016
+          Ticker:  AMT
+            ISIN:  US03027X1000
+--------------------------------------------------------------------------------------------------------------------------
+
+Prop.# Proposal                                                  Proposal      Proposal Vote                  For/Against
+                                                                 Type                                         Management
+
+1A.    ELECTION OF DIRECTOR: RAYMOND P. DOLAN                    Mgmt          For                            For
+
+1B.    ELECTION OF DIRECTOR: ROBERT D. HORMATS                   Mgmt          For                            For
+
+1C.    ELECTION OF DIRECTOR: CAROLYN F. KATZ                     Mgmt          For                            For
+
+1D.    ELECTION OF DIRECTOR: GUSTAVO LARA CANTU                  Mgmt          For                            For
+
+1E.    ELECTION OF DIRECTOR: CRAIG MACNAB                        Mgmt          For                            For
+
+1F.    ELECTION OF DIRECTOR: JOANN A. REED                       Mgmt          For                            For
+
+1G.    ELECTION OF DIRECTOR: PAMELA D.A. REEVE                   Mgmt          For                            For
+
+1H.    ELECTION OF DIRECTOR: DAVID E. SHARBUTT                   Mgmt          For                            For
+
+1I.    ELECTION OF DIRECTOR: JAMES D. TAICLET, JR.               Mgmt          For                            For
+
+1J.    ELECTION OF DIRECTOR: SAMME L. THOMPSON                   Mgmt          For                            For
+
+2.     TO RATIFY THE SELECTION OF DELOITTE &                     Mgmt          For                            For
+       TOUCHE LLP AS THE COMPANY'S INDEPENDENT
+       REGISTERED PUBLIC ACCOUNTING FIRM FOR 2016
+
+3.     TO APPROVE, ON AN ADVISORY BASIS, THE                     Mgmt          For                            For
+       COMPANY'S EXECUTIVE COMPENSATION
+
+4.     TO AMEND THE BYLAWS TO REDUCE THE OWNERSHIP               Shr           For                            Against
+       THRESHOLD REQUIRED TO CALL A SPECIAL
+       MEETING OF THE STOCKHOLDERS
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+ AMGEN INC.                                                                                  Agenda Number:  934360645
+--------------------------------------------------------------------------------------------------------------------------
+        Security:  031162100
+    Meeting Type:  Annual
+    Meeting Date:  19-May-2016
+          Ticker:  AMGN
+            ISIN:  US0311621009
+--------------------------------------------------------------------------------------------------------------------------
+
+Prop.# Proposal                                                  Proposal      Proposal Vote                  For/Against
+                                                                 Type                                         Management
+
+1A.    ELECTION OF DIRECTOR FOR A TERM EXPIRING AT               Mgmt          For                            For
+       2017: DR. DAVID BALTIMORE
+
+1B.    ELECTION OF DIRECTOR FOR A TERM EXPIRING AT               Mgmt          For                            For
+       2017: MR. FRANK J. BIONDI, JR.
+
+1C.    ELECTION OF DIRECTOR FOR A TERM EXPIRING AT               Mgmt          For                            For
+       2017: MR. ROBERT A. BRADWAY
+
+1D.    ELECTION OF DIRECTOR FOR A TERM EXPIRING AT               Mgmt          For                            For
+       2017: MR. FRANCOIS DE CARBONNEL
+
+1E.    ELECTION OF DIRECTOR FOR A TERM EXPIRING AT               Mgmt          For                            For
+       2017: MR. ROBERT A. ECKERT
+
+1F.    ELECTION OF DIRECTOR FOR A TERM EXPIRING AT               Mgmt          For                            For
+       2017: MR. GREG C. GARLAND
+
+1G.    ELECTION OF DIRECTOR FOR A TERM EXPIRING AT               Mgmt          For                            For
+       2017: MR. FRED HASSAN
+
+1H.    ELECTION OF DIRECTOR FOR A TERM EXPIRING AT               Mgmt          For                            For
+       2017: DR. REBECCA M. HENDERSON
+
+1I.    ELECTION OF DIRECTOR FOR A TERM EXPIRING AT               Mgmt          For                            For
+       2017: MR. FRANK C. HERRINGER
+
+1J.    ELECTION OF DIRECTOR FOR A TERM EXPIRING AT               Mgmt          For                            For
+       2017: DR. TYLER JACKS
+
+1K.    ELECTION OF DIRECTOR FOR A TERM EXPIRING AT               Mgmt          For                            For
+       2017: MS. JUDITH C. PELHAM
+
+1L.    ELECTION OF DIRECTOR FOR A TERM EXPIRING AT               Mgmt          For                            For
+       2017: DR. RONALD D. SUGAR
+
+1M.    ELECTION OF DIRECTOR FOR A TERM EXPIRING AT               Mgmt          For                            For
+       2017: DR. R. SANDERS WILLIAMS
+
+2.     TO RATIFY THE SELECTION OF ERNST & YOUNG                  Mgmt          For                            For
+       LLP AS OUR INDEPENDENT REGISTERED PUBLIC
+       ACCOUNTANTS FOR THE FISCAL YEAR ENDING
+       DECEMBER 31, 2016.
+
+3.     ADVISORY VOTE TO APPROVE OUR EXECUTIVE                    Mgmt          For                            For
+       COMPENSATION.
+
+4.     STOCKHOLDER PROPOSAL TO CHANGE THE VOTING                 Shr           Against                        For
+       STANDARD APPLICABLE TO NON-BINDING
+       PROPOSALS SUBMITTED BY STOCKHOLDERS.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+ APPLE INC.                                                                                  Agenda Number:  934319016
+--------------------------------------------------------------------------------------------------------------------------
+        Security:  037833100
+    Meeting Type:  Annual
+    Meeting Date:  26-Feb-2016
+          Ticker:  AAPL
+            ISIN:  US0378331005
+--------------------------------------------------------------------------------------------------------------------------
+
+Prop.# Proposal                                                  Proposal      Proposal Vote                  For/Against
+                                                                 Type                                         Management
+
+1A.    ELECTION OF DIRECTOR: JAMES BELL                          Mgmt          For                            For
+
+1B.    ELECTION OF DIRECTOR: TIM COOK                            Mgmt          For                            For
+
+1C.    ELECTION OF DIRECTOR: AL GORE                             Mgmt          For                            For
+
+1D.    ELECTION OF DIRECTOR: BOB IGER                            Mgmt          For                            For
+
+1E.    ELECTION OF DIRECTOR: ANDREA JUNG                         Mgmt          For                            For
+
+1F.    ELECTION OF DIRECTOR: ART LEVINSON                        Mgmt          For                            For
+
+1G.    ELECTION OF DIRECTOR: RON SUGAR                           Mgmt          For                            For
+
+1H.    ELECTION OF DIRECTOR: SUE WAGNER                          Mgmt          For                            For
+
+2.     RATIFICATION OF THE APPOINTMENT OF ERNST &                Mgmt          For                            For
+       YOUNG LLP AS APPLE'S INDEPENDENT REGISTERED
+       PUBLIC ACCOUNTING FIRM FOR 2016
+
+3.     AN ADVISORY RESOLUTION TO APPROVE EXECUTIVE               Mgmt          For                            For
+       COMPENSATION
+
+4.     APPROVAL OF THE AMENDED AND RESTATED APPLE                Mgmt          For                            For
+       INC. 2014 EMPLOYEE STOCK PLAN
+
+5.     A SHAREHOLDER PROPOSAL ENTITLED "NET-ZERO                 Shr           Against                        For
+       GREENHOUSE GAS EMISSIONS BY 2030"
+
+6.     A SHAREHOLDER PROPOSAL REGARDING DIVERSITY                Shr           Against                        For
+       AMONG OUR SENIOR MANAGEMENT AND BOARD OF
+       DIRECTORS
+
+7.     A SHAREHOLDER PROPOSAL ENTITLED "HUMAN                    Shr           Against                        For
+       RIGHTS REVIEW - HIGH RISK REGIONS"
+
+8.     A SHAREHOLDER PROPOSAL ENTITLED                           Shr           Against                        For
+       "SHAREHOLDER PROXY ACCESS"
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+ BANK OF AMERICA CORPORATION                                                                 Agenda Number:  934269172
+--------------------------------------------------------------------------------------------------------------------------
+        Security:  060505104
+    Meeting Type:  Special
+    Meeting Date:  22-Sep-2015
+          Ticker:  BAC
+            ISIN:  US0605051046
+--------------------------------------------------------------------------------------------------------------------------
+
+Prop.# Proposal                                                  Proposal      Proposal Vote                  For/Against
+                                                                 Type                                         Management
+
+01     RESOLVED, THAT THE BANK OF AMERICA                        Mgmt          Against                        Against
+       CORPORATION STOCKHOLDERS HEREBY RATIFY THE
+       OCTOBER 1, 2014 AMENDMENTS TO THE COMPANY'S
+       BYLAWS THAT PERMIT THE COMPANY'S BOARD OF
+       DIRECTORS THE DISCRETION TO DETERMINE THE
+       BOARD'S LEADERSHIP STRUCTURE, INCLUDING
+       APPOINTING AN INDEPENDENT CHAIRMAN, OR
+       APPOINTING A LEAD INDEPENDENT DIRECTOR WHEN
+       THE CHAIRMAN IS NOT AN INDEPENDENT
+       DIRECTOR.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+ BANK OF AMERICA CORPORATION                                                                 Agenda Number:  934341568
+--------------------------------------------------------------------------------------------------------------------------
+        Security:  060505104
+    Meeting Type:  Annual
+    Meeting Date:  27-Apr-2016
+          Ticker:  BAC
+            ISIN:  US0605051046
+--------------------------------------------------------------------------------------------------------------------------
+
+Prop.# Proposal                                                  Proposal      Proposal Vote                  For/Against
+                                                                 Type                                         Management
+
+1A.    ELECTION OF DIRECTOR: SHARON L. ALLEN                     Mgmt          For                            For
+
+1B.    ELECTION OF DIRECTOR: SUSAN S. BIES                       Mgmt          For                            For
+
+1C.    ELECTION OF DIRECTOR: JACK O. BOVENDER, JR.               Mgmt          For                            For
+
+1D.    ELECTION OF DIRECTOR: FRANK P. BRAMBLE, SR.               Mgmt          For                            For
+
+1E.    ELECTION OF DIRECTOR: PIERRE J.P. DE WECK                 Mgmt          For                            For
+
+1F.    ELECTION OF DIRECTOR: ARNOLD W. DONALD                    Mgmt          For                            For
+
+1G.    ELECTION OF DIRECTOR: LINDA P. HUDSON                     Mgmt          For                            For
+
+1H.    ELECTION OF DIRECTOR: MONICA C. LOZANO                    Mgmt          For                            For
+
+1I.    ELECTION OF DIRECTOR: THOMAS J. MAY                       Mgmt          For                            For
+
+1J.    ELECTION OF DIRECTOR: BRIAN T. MOYNIHAN                   Mgmt          For                            For
+
+1K.    ELECTION OF DIRECTOR: LIONEL L. NOWELL, III               Mgmt          For                            For
+
+1L.    ELECTION OF DIRECTOR: THOMAS D. WOODS                     Mgmt          For                            For
+
+1M.    ELECTION OF DIRECTOR: R. DAVID YOST                       Mgmt          For                            For
+
+2.     APPROVING OUR EXECUTIVE COMPENSATION (AN                  Mgmt          For                            For
+       ADVISORY, NON-BINDING "SAY ON PAY"
+       RESOLUTION)
+
+3.     RATIFYING THE APPOINTMENT OF OUR                          Mgmt          For                            For
+       INDEPENDENT REGISTERED PUBLIC ACCOUNTING
+       FIRM FOR 2016
+
+4.     STOCKHOLDER PROPOSAL - CLAWBACK AMENDMENT                 Shr           Against                        For
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+ CARNIVAL CORPORATION                                                                        Agenda Number:  934331985
+--------------------------------------------------------------------------------------------------------------------------
+        Security:  143658300
+    Meeting Type:  Annual
+    Meeting Date:  14-Apr-2016
+          Ticker:  CCL
+            ISIN:  PA1436583006
+--------------------------------------------------------------------------------------------------------------------------
+
+Prop.# Proposal                                                  Proposal      Proposal Vote                  For/Against
+                                                                 Type                                         Management
+
+1.     TO RE-ELECT MICKY ARISON AS A DIRECTOR OF                 Mgmt          For                            For
+       CARNIVAL CORPORATION AND AS A DIRECTOR OF
+       CARNIVAL PLC.
+
+2.     TO RE-ELECT SIR JONATHON BAND AS A DIRECTOR               Mgmt          For                            For
+       OF CARNIVAL CORPORATION AND AS A DIRECTOR
+       OF CARNIVAL PLC.
+
+3.     TO RE-ELECT ARNOLD W. DONALD AS A DIRECTOR                Mgmt          For                            For
+       OF CARNIVAL CORPORATION AND AS A DIRECTOR
+       OF CARNIVAL PLC.
+
+4.     TO RE-ELECT RICHARD J. GLASIER AS A                       Mgmt          For                            For
+       DIRECTOR OF CARNIVAL CORPORATION AND AS A
+       DIRECTOR OF CARNIVAL PLC.
+
+5.     TO RE-ELECT DEBRA KELLY-ENNIS AS A DIRECTOR               Mgmt          For                            For
+       OF CARNIVAL CORPORATION AND AS A DIRECTOR
+       OF CARNIVAL PLC.
+
+6.     TO RE-ELECT SIR JOHN PARKER AS A DIRECTOR                 Mgmt          For                            For
+       OF CARNIVAL CORPORATION AND AS A DIRECTOR
+       OF CARNIVAL PLC.
+
+7.     TO RE-ELECT STUART SUBOTNICK AS A DIRECTOR                Mgmt          For                            For
+       OF CARNIVAL CORPORATION AND AS A DIRECTOR
+       OF CARNIVAL PLC.
+
+8.     TO RE-ELECT LAURA WEIL AS A DIRECTOR OF                   Mgmt          For                            For
+       CARNIVAL CORPORATION AND AS A DIRECTOR OF
+       CARNIVAL PLC.
+
+9.     TO RE-ELECT RANDALL J. WEISENBURGER AS A                  Mgmt          For                            For
+       DIRECTOR OF CARNIVAL CORPORATION AND AS A
+       DIRECTOR OF CARNIVAL PLC.
+
+10.    TO HOLD AN ADVISORY VOTE TO APPROVE                       Mgmt          For                            For
+       EXECUTIVE COMPENSATION.
+
+11.    TO APPROVE THE CARNIVAL PLC DIRECTORS'                    Mgmt          For                            For
+       REMUNERATION REPORT (IN ACCORDANCE WITH
+       LEGAL REQUIREMENTS APPLICABLE TO UK
+       COMPANIES).
+
+12.    TO RE-APPOINT THE UK FIRM OF                              Mgmt          For                            For
+       PRICEWATERHOUSECOOPERS LLP AS INDEPENDENT
+       AUDITORS FOR CARNIVAL PLC AND TO RATIFY THE
+       SELECTION OF THE U.S. FIRM OF
+       PRICEWATERHOUSECOOPERS LLP AS THE
+       INDEPENDENT REGISTERED CERTIFIED PUBLIC
+       ACCOUNTING FIRM FOR CARNIVAL CORPORATION.
+
+13.    TO AUTHORIZE THE AUDIT COMMITTEE OF                       Mgmt          For                            For
+       CARNIVAL PLC TO AGREE THE REMUNERATION OF
+       THE INDEPENDENT AUDITORS OF CARNIVAL PLC.
+
+14.    TO RECEIVE THE UK ACCOUNTS AND REPORTS OF                 Mgmt          For                            For
+       THE DIRECTORS AND AUDITORS OF CARNIVAL PLC
+       FOR THE YEAR ENDED NOVEMBER 30, 2015 (IN
+       ACCORDANCE WITH LEGAL REQUIREMENTS
+       APPLICABLE TO UK COMPANIES).
+
+15.    TO APPROVE THE GIVING OF AUTHORITY FOR THE                Mgmt          For                            For
+       ALLOTMENT OF NEW SHARES BY CARNIVAL PLC (IN
+       ACCORDANCE WITH CUSTOMARY PRACTICE FOR UK
+       COMPANIES).
+
+16.    TO APPROVE THE DISAPPLICATION OF                          Mgmt          For                            For
+       PRE-EMPTION RIGHTS IN RELATION TO THE
+       ALLOTMENT OF NEW SHARES BY CARNIVAL PLC (IN
+       ACCORDANCE WITH CUSTOMARY PRACTICE FOR UK
+       COMPANIES).
+
+17.    TO APPROVE A GENERAL AUTHORITY FOR CARNIVAL               Mgmt          For                            For
+       PLC TO BUY BACK CARNIVAL PLC ORDINARY
+       SHARES IN THE OPEN MARKET (IN ACCORDANCE
+       WITH LEGAL REQUIREMENTS APPLICABLE TO UK
+       COMPANIES DESIRING TO IMPLEMENT SHARE BUY
+       BACK PROGRAMS).
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+ CERNER CORPORATION                                                                          Agenda Number:  934401580
+--------------------------------------------------------------------------------------------------------------------------
+        Security:  156782104
+    Meeting Type:  Annual
+    Meeting Date:  27-May-2016
+          Ticker:  CERN
+            ISIN:  US1567821046
+--------------------------------------------------------------------------------------------------------------------------
+
+Prop.# Proposal                                                  Proposal      Proposal Vote                  For/Against
+                                                                 Type                                         Management
+
+1A.    ELECTION OF DIRECTOR: GERALD E. BISBEE,                   Mgmt          For                            For
+       JR., PH.D.
+
+1B.    ELECTION OF DIRECTOR: DENIS A. CORTESE,                   Mgmt          For                            For
+       M.D.
+
+1C.    ELECTION OF DIRECTOR: LINDA M. DILLMAN                    Mgmt          For                            For
+
+2.     RATIFICATION OF THE APPOINTMENT OF KPMG LLP               Mgmt          For                            For
+       AS THE INDEPENDENT REGISTERED PUBLIC
+       ACCOUNTING FIRM OF CERNER CORPORATION FOR
+       2016.
+
+3.     APPROVAL, ON AN ADVISORY BASIS, OF THE                    Mgmt          For                            For
+       COMPENSATION OF OUR NAMED EXECUTIVE
+       OFFICERS.
+
+4.     APPROVAL OF THE AMENDMENT AND RESTATEMENT                 Mgmt          For                            For
+       OF THE CERNER CORPORATION PERFORMANCE-BASED
+       COMPENSATION PLAN.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+ CITIGROUP INC.                                                                              Agenda Number:  934339183
+--------------------------------------------------------------------------------------------------------------------------
+        Security:  172967424
+    Meeting Type:  Annual
+    Meeting Date:  26-Apr-2016
+          Ticker:  C
+            ISIN:  US1729674242
+--------------------------------------------------------------------------------------------------------------------------
+
+Prop.# Proposal                                                  Proposal      Proposal Vote                  For/Against
+                                                                 Type                                         Management
+
+1A.    ELECTION OF DIRECTOR: MICHAEL L. CORBAT                   Mgmt          For                            For
+
+1B.    ELECTION OF DIRECTOR: ELLEN M. COSTELLO                   Mgmt          For                            For
+
+1C.    ELECTION OF DIRECTOR: DUNCAN P. HENNES                    Mgmt          For                            For
+
+1D.    ELECTION OF DIRECTOR: PETER B. HENRY                      Mgmt          For                            For
+
+1E.    ELECTION OF DIRECTOR: FRANZ B. HUMER                      Mgmt          For                            For
+
+1F.    ELECTION OF DIRECTOR: RENEE J. JAMES                      Mgmt          For                            For
+
+1G.    ELECTION OF DIRECTOR: EUGENE M. MCQUADE                   Mgmt          For                            For
+
+1H.    ELECTION OF DIRECTOR: MICHAEL E. O'NEILL                  Mgmt          For                            For
+
+1I.    ELECTION OF DIRECTOR: GARY M. REINER                      Mgmt          For                            For
+
+1J.    ELECTION OF DIRECTOR: JUDITH RODIN                        Mgmt          For                            For
+
+1K.    ELECTION OF DIRECTOR: ANTHONY M. SANTOMERO                Mgmt          For                            For
+
+1L.    ELECTION OF DIRECTOR: JOAN E. SPERO                       Mgmt          For                            For
+
+1M.    ELECTION OF DIRECTOR: DIANA L. TAYLOR                     Mgmt          For                            For
+
+1N.    ELECTION OF DIRECTOR: WILLIAM S. THOMPSON,                Mgmt          For                            For
+       JR.
+
+1O.    ELECTION OF DIRECTOR: JAMES S. TURLEY                     Mgmt          For                            For
+
+1P.    ELECTION OF DIRECTOR: ERNESTO ZEDILLO PONCE               Mgmt          For                            For
+       DE LEON
+
+2.     PROPOSAL TO RATIFY THE SELECTION OF KPMG                  Mgmt          For                            For
+       LLP AS CITI'S INDEPENDENT REGISTERED PUBLIC
+       ACCOUNTING FIRM FOR 2016.
+
+3.     ADVISORY APPROVAL OF CITI'S 2015 EXECUTIVE                Mgmt          Against                        Against
+       COMPENSATION.
+
+4.     APPROVAL OF AN AMENDMENT TO THE CITIGROUP                 Mgmt          For                            For
+       2014 STOCK INCENTIVE PLAN AUTHORIZING
+       ADDITIONAL SHARES.
+
+5.     APPROVAL OF THE AMENDED AND RESTATED 2011                 Mgmt          For                            For
+       CITIGROUP EXECUTIVE PERFORMANCE PLAN.
+
+6.     STOCKHOLDER PROPOSAL REQUESTING A REPORT                  Shr           Against                        For
+       DEMONSTRATING THE COMPANY DOES NOT HAVE A
+       GENDER PAY GAP.
+
+7.     STOCKHOLDER PROPOSAL REQUESTING A REPORT ON               Shr           Against                        For
+       LOBBYING AND GRASSROOTS LOBBYING
+       CONTRIBUTIONS.
+
+8.     STOCKHOLDER PROPOSAL REQUESTING THAT THE                  Shr           Against                        For
+       BOARD APPOINT A STOCKHOLDER VALUE
+       COMMITTEE.
+
+9.     STOCKHOLDER PROPOSAL REQUESTING AN                        Shr           Against                        For
+       AMENDMENT TO THE GENERAL CLAWBACK POLICY.
+
+10.    STOCKHOLDER PROPOSAL REQUESTING THAT THE                  Shr           Against                        For
+       BOARD ADOPT A POLICY PROHIBITING THE
+       VESTING OF EQUITY-BASED AWARDS FOR SENIOR
+       EXECUTIVES DUE TO A VOLUNTARY RESIGNATION
+       TO ENTER GOVERNMENT SERVICE.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+ COLCHESTER STREET TRUST                                                                     Agenda Number:  934286421
+--------------------------------------------------------------------------------------------------------------------------
+        Security:  192826501
+    Meeting Type:  Special
+    Meeting Date:  12-Feb-2016
+          Ticker:  FMYXX
+            ISIN:  US1928265016
+--------------------------------------------------------------------------------------------------------------------------
+
+Prop.# Proposal                                                  Proposal      Proposal Vote                  For/Against
+                                                                 Type                                         Management
+
+1.     DIRECTOR
+       ELIZABETH S. ACTON                                        Mgmt          For                            For
+       JOHN ENGLER                                               Mgmt          For                            For
+       ALBERT R. GAMPER, JR.                                     Mgmt          For                            For
+       ROBERT F. GARTLAND                                        Mgmt          For                            For
+       ABIGAIL P. JOHNSON                                        Mgmt          For                            For
+       ARTHUR E. JOHNSON                                         Mgmt          For                            For
+       MICHAEL E. KENNEALLY                                      Mgmt          For                            For
+       JAMES H. KEYES                                            Mgmt          For                            For
+       MARIE L. KNOWLES                                          Mgmt          For                            For
+       GEOFFREY A. VON KUHN                                      Mgmt          For                            For
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+ COSTCO WHOLESALE CORPORATION                                                                Agenda Number:  934310359
+--------------------------------------------------------------------------------------------------------------------------
+        Security:  22160K105
+    Meeting Type:  Annual
+    Meeting Date:  29-Jan-2016
+          Ticker:  COST
+            ISIN:  US22160K1051
+--------------------------------------------------------------------------------------------------------------------------
+
+Prop.# Proposal                                                  Proposal      Proposal Vote                  For/Against
+                                                                 Type                                         Management
+
+1.     DIRECTOR
+       HAMILTON E. JAMES                                         Mgmt          For                            For
+       W. CRAIG JELINEK                                          Mgmt          For                            For
+       JOHN W. STANTON                                           Mgmt          For                            For
+       MARY A. WILDEROTTER                                       Mgmt          For                            For
+
+2.     RATIFICATION OF SELECTION OF INDEPENDENT                  Mgmt          For                            For
+       AUDITORS.
+
+3.     APPROVAL, ON AN ADVISORY BASIS, OF                        Mgmt          For                            For
+       EXECUTIVE COMPENSATION.
+
+4.     SHAREHOLDER PROPOSAL REGARDING PROXY ACCESS               Shr           For                            Against
+       FOR SHAREHOLDERS.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+ CVS HEALTH CORPORATION                                                                      Agenda Number:  934366584
+--------------------------------------------------------------------------------------------------------------------------
+        Security:  126650100
+    Meeting Type:  Annual
+    Meeting Date:  19-May-2016
+          Ticker:  CVS
+            ISIN:  US1266501006
+--------------------------------------------------------------------------------------------------------------------------
+
+Prop.# Proposal                                                  Proposal      Proposal Vote                  For/Against
+                                                                 Type                                         Management
+
+1A.    ELECTION OF DIRECTOR: RICHARD M. BRACKEN                  Mgmt          For                            For
+
+1B.    ELECTION OF DIRECTOR: C. DAVID BROWN II                   Mgmt          For                            For
+
+1C.    ELECTION OF DIRECTOR: ALECIA A. DECOUDREAUX               Mgmt          For                            For
+
+1D.    ELECTION OF DIRECTOR: NANCY-ANN M. DEPARLE                Mgmt          For                            For
+
+1E.    ELECTION OF DIRECTOR: DAVID W. DORMAN                     Mgmt          For                            For
+
+1F.    ELECTION OF DIRECTOR: ANNE M. FINUCANE                    Mgmt          For                            For
+
+1G.    ELECTION OF DIRECTOR: LARRY J. MERLO                      Mgmt          For                            For
+
+1H.    ELECTION OF DIRECTOR: JEAN-PIERRE MILLON                  Mgmt          For                            For
+
+1I.    ELECTION OF DIRECTOR: RICHARD J. SWIFT                    Mgmt          For                            For
+
+1J.    ELECTION OF DIRECTOR: WILLIAM C. WELDON                   Mgmt          For                            For
+
+1K.    ELECTION OF DIRECTOR: TONY L. WHITE                       Mgmt          For                            For
+
+2.     PROPOSAL TO RATIFY INDEPENDENT PUBLIC                     Mgmt          For                            For
+       ACCOUNTING FIRM FOR 2016.
+
+3.     SAY ON PAY - AN ADVISORY VOTE ON THE                      Mgmt          Against                        Against
+       APPROVAL OF EXECUTIVE COMPENSATION.
+
+4.     STOCKHOLDER PROPOSAL REGARDING A REPORT ON                Shr           Against                        For
+       ALIGNMENT OF CORPORATE VALUES AND POLITICAL
+       CONTRIBUTIONS.
+
+5.     STOCKHOLDER PROPOSAL REGARDING A REPORT ON                Shr           Against                        For
+       EXECUTIVE PAY.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+ DELPHI AUTOMOTIVE PLC                                                                       Agenda Number:  934337874
+--------------------------------------------------------------------------------------------------------------------------
+        Security:  G27823106
+    Meeting Type:  Annual
+    Meeting Date:  28-Apr-2016
+          Ticker:  DLPH
+            ISIN:  JE00B783TY65
+--------------------------------------------------------------------------------------------------------------------------
+
+Prop.# Proposal                                                  Proposal      Proposal Vote                  For/Against
+                                                                 Type                                         Management
+
+1A.    ELECTION OF DIRECTOR: JOSEPH S. CANTIE                    Mgmt          For                            For
+
+1B.    ELECTION OF DIRECTOR: KEVIN P. CLARK                      Mgmt          For                            For
+
+1C.    ELECTION OF DIRECTOR: GARY L. COWGER                      Mgmt          For                            For
+
+1D.    ELECTION OF DIRECTOR: NICHOLAS M. DONOFRIO                Mgmt          For                            For
+
+1E.    ELECTION OF DIRECTOR: MARK P. FRISSORA                    Mgmt          For                            For
+
+1F.    ELECTION OF DIRECTOR: RAJIV L. GUPTA                      Mgmt          For                            For
+
+1G.    ELECTION OF DIRECTOR: J. RANDALL MACDONALD                Mgmt          For                            For
+
+1H.    ELECTION OF DIRECTOR: SEAN O. MAHONEY                     Mgmt          For                            For
+
+1I.    ELECTION OF DIRECTOR: TIMOTHY M. MANGANELLO               Mgmt          For                            For
+
+1J.    ELECTION OF DIRECTOR: BETHANY J. MAYER                    Mgmt          For                            For
+
+1K.    ELECTION OF DIRECTOR: THOMAS W. SIDLIK                    Mgmt          For                            For
+
+1L.    ELECTION OF DIRECTOR: BERND WIEDEMANN                     Mgmt          For                            For
+
+1M.    ELECTION OF DIRECTOR: LAWRENCE A. ZIMMERMAN               Mgmt          For                            For
+
+2.     PROPOSAL TO RE-APPOINT AUDITORS, RATIFY                   Mgmt          For                            For
+       INDEPENDENT PUBLIC ACCOUNTING FIRM AND
+       AUTHORIZE THE DIRECTORS TO DETERMINE THE
+       FEES PAID TO THE AUDITORS.
+
+3.     SAY-ON-PAY - TO APPROVE, BY ADVISORY VOTE,                Mgmt          For                            For
+       EXECUTIVE COMPENSATION.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+ ECOLAB INC.                                                                                 Agenda Number:  934346897
+--------------------------------------------------------------------------------------------------------------------------
+        Security:  278865100
+    Meeting Type:  Annual
+    Meeting Date:  05-May-2016
+          Ticker:  ECL
+            ISIN:  US2788651006
+--------------------------------------------------------------------------------------------------------------------------
+
+Prop.# Proposal                                                  Proposal      Proposal Vote                  For/Against
+                                                                 Type                                         Management
+
+1A.    ELECTION OF DIRECTOR: DOUGLAS M. BAKER, JR.               Mgmt          For                            For
+
+1B.    ELECTION OF DIRECTOR: BARBARA J. BECK                     Mgmt          For                            For
+
+1C.    ELECTION OF DIRECTOR: LESLIE S. BILLER                    Mgmt          For                            For
+
+1D.    ELECTION OF DIRECTOR: CARL M. CASALE                      Mgmt          For                            For
+
+1E.    ELECTION OF DIRECTOR: STEPHEN I. CHAZEN                   Mgmt          For                            For
+
+1F.    ELECTION OF DIRECTOR: JEFFREY M. ETTINGER                 Mgmt          For                            For
+
+1G.    ELECTION OF DIRECTOR: JERRY A. GRUNDHOFER                 Mgmt          For                            For
+
+1H.    ELECTION OF DIRECTOR: ARTHUR J. HIGGINS                   Mgmt          For                            For
+
+1I.    ELECTION OF DIRECTOR: MICHAEL LARSON                      Mgmt          For                            For
+
+1J.    ELECTION OF DIRECTOR: JERRY W. LEVIN                      Mgmt          For                            For
+
+1K.    ELECTION OF DIRECTOR: DAVID W. MACLENNAN                  Mgmt          For                            For
+
+1L.    ELECTION OF DIRECTOR: TRACY B. MCKIBBEN                   Mgmt          For                            For
+
+1M.    ELECTION OF DIRECTOR: VICTORIA J. REICH                   Mgmt          For                            For
+
+1N.    ELECTION OF DIRECTOR: SUZANNE M. VAUTRINOT                Mgmt          For                            For
+
+1O.    ELECTION OF DIRECTOR: JOHN J. ZILLMER                     Mgmt          For                            For
+
+2.     RATIFY THE APPOINTMENT OF                                 Mgmt          For                            For
+       PRICEWATERHOUSECOOPERS LLP AS INDEPENDENT
+       REGISTERED PUBLIC ACCOUNTING FIRM FOR THE
+       CURRENT YEAR ENDING DECEMBER 31, 2016.
+
+3.     APPROVE AN AMENDMENT TO THE ECOLAB INC.                   Mgmt          For                            For
+       2001 NON-EMPLOYEE DIRECTOR STOCK OPTION AND
+       DEFERRED COMPENSATION PLAN.
+
+4.     ADVISORY VOTE TO APPROVE THE COMPENSATION                 Mgmt          For                            For
+       OF EXECUTIVES DISCLOSED IN THE PROXY
+       STATEMENT.
+
+5.     STOCKHOLDER PROPOSAL REGARDING PROXY                      Shr           Against                        For
+       ACCESS.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+ FACEBOOK INC.                                                                               Agenda Number:  934444946
+--------------------------------------------------------------------------------------------------------------------------
+        Security:  30303M102
+    Meeting Type:  Annual
+    Meeting Date:  20-Jun-2016
+          Ticker:  FB
+            ISIN:  US30303M1027
+--------------------------------------------------------------------------------------------------------------------------
+
+Prop.# Proposal                                                  Proposal      Proposal Vote                  For/Against
+                                                                 Type                                         Management
+
+1.     DIRECTOR
+       MARC L. ANDREESSEN                                        Mgmt          For                            For
+       ERSKINE B. BOWLES                                         Mgmt          For                            For
+       S.D. DESMOND-HELLMANN                                     Mgmt          For                            For
+       REED HASTINGS                                             Mgmt          For                            For
+       JAN KOUM                                                  Mgmt          For                            For
+       SHERYL K. SANDBERG                                        Mgmt          For                            For
+       PETER A. THIEL                                            Mgmt          For                            For
+       MARK ZUCKERBERG                                           Mgmt          For                            For
+
+2.     TO RATIFY THE APPOINTMENT OF ERNST & YOUNG                Mgmt          For                            For
+       LLP AS FACEBOOK, INC.'S INDEPENDENT
+       REGISTERED PUBLIC ACCOUNTING FIRM FOR THE
+       FISCAL YEAR ENDING DECEMBER 31, 2016.
+
+3.     TO HOLD A NON-BINDING ADVISORY VOTE ON THE                Mgmt          For                            For
+       COMPENSATION PROGRAM FOR OUR NAMED
+       EXECUTIVE OFFICERS AS DISCLOSED IN OUR
+       PROXY STATEMENT.
+
+4.     TO RATIFY OUR GRANT OF RESTRICTED STOCK                   Mgmt          For                            For
+       UNITS (RSUS) TO OUR NON-EMPLOYEE DIRECTORS
+       DURING THE YEAR ENDED DECEMBER 31, 2013.
+
+5.     TO RATIFY OUR GRANT OF RSUS TO OUR                        Mgmt          For                            For
+       NON-EMPLOYEE DIRECTORS DURING THE YEARS
+       ENDED DECEMBER 31, 2014 AND 2015.
+
+6.     TO APPROVE OUR ANNUAL COMPENSATION PROGRAM                Mgmt          For                            For
+       FOR NON-EMPLOYEE DIRECTORS.
+
+7A.    TO APPROVE THE ADOPTION OF OUR AMENDED AND                Mgmt          Against                        Against
+       RESTATED CERTIFICATE OF INCORPORATION,
+       COMPRISING: THE APPROVAL OF THE ADOPTION OF
+       AMENDMENTS TO OUR RESTATED CERTIFICATE OF
+       INCORPORATION TO ESTABLISH THE CLASS C
+       CAPITAL STOCK AND TO MAKE CERTAIN
+       CLARIFYING CHANGES.
+
+7B.    TO APPROVE THE ADOPTION OF OUR AMENDED AND                Mgmt          Against                        Against
+       RESTATED CERTIFICATE OF INCORPORATION,
+       COMPRISING: THE APPROVAL OF THE ADOPTION OF
+       AMENDMENTS TO OUR RESTATED CERTIFICATE OF
+       INCORPORATION TO INCREASE THE NUMBER OF
+       AUTHORIZED SHARES OF CLASS A COMMON STOCK
+       FROM 5,000,000,000 TO 20,000,000,000.
+
+7C.    TO APPROVE THE ADOPTION OF OUR AMENDED AND                Mgmt          For                            For
+       RESTATED CERTIFICATE OF INCORPORATION,
+       COMPRISING: THE APPROVAL OF THE ADOPTION OF
+       AMENDMENTS TO OUR RESTATED CERTIFICATE OF
+       INCORPORATION TO PROVIDE FOR THE EQUAL
+       TREATMENT OF SHARES OF CLASS A COMMON
+       STOCK, CLASS B COMMON STOCK, AND CLASS C
+       CAPITAL STOCK IN CONNECTION WITH DIVIDENDS
+       AND DISTRIBUTIONS, CERTAIN TRANSACTIONS,
+       AND UPON OUR LIQUIDATION, DISSOLUTION, OR
+       WINDING UP.
+
+7D.    TO APPROVE THE ADOPTION OF OUR AMENDED AND                Mgmt          For                            For
+       RESTATED CERTIFICATE OF INCORPORATION,
+       COMPRISING: THE APPROVAL OF THE ADOPTION OF
+       AMENDMENTS TO OUR RESTATED CERTIFICATE OF
+       INCORPORATION TO PROVIDE FOR ADDITIONAL
+       EVENTS UPON WHICH ALL OF OUR SHARES OF
+       CLASS B COMMON STOCK WILL AUTOMATICALLY
+       CONVERT TO CLASS A COMMON STOCK, TO PROVIDE
+       FOR ADDITIONAL INSTANCES WHERE CLASS B
+       COMMON STOCK WOULD NOT CONVERT TO CLASS A
+       COMMON STOCK IN CONNECTION WITH CERTAIN
+       TRANSFERS, AND TO MAKE CERTAIN RELATED
+       CHANGES TO THE CLASS B COMMON STOCK
+       CONVERSION PROVISIONS.
+
+8.     TO AMEND AND RESTATE OUR 2012 EQUITY                      Mgmt          Against                        Against
+       INCENTIVE PLAN.
+
+9.     A STOCKHOLDER PROPOSAL REGARDING CHANGE IN                Shr           For                            Against
+       STOCKHOLDER VOTING.
+
+10.    A STOCKHOLDER PROPOSAL REGARDING AN ANNUAL                Shr           For                            Against
+       SUSTAINABILITY REPORT.
+
+11.    A STOCKHOLDER PROPOSAL REGARDING A LOBBYING               Shr           Against                        For
+       REPORT.
+
+12.    A STOCKHOLDER PROPOSAL REGARDING AN                       Shr           Against                        For
+       INTERNATIONAL PUBLIC POLICY COMMITTEE.
+
+13.    A STOCKHOLDER PROPOSAL REGARDING A GENDER                 Shr           Against                        For
+       PAY EQUITY REPORT.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+ HASBRO, INC.                                                                                Agenda Number:  934373729
+--------------------------------------------------------------------------------------------------------------------------
+        Security:  418056107
+    Meeting Type:  Annual
+    Meeting Date:  19-May-2016
+          Ticker:  HAS
+            ISIN:  US4180561072
+--------------------------------------------------------------------------------------------------------------------------
+
+Prop.# Proposal                                                  Proposal      Proposal Vote                  For/Against
+                                                                 Type                                         Management
+
+1A.    ELECTION OF DIRECTOR FOR TERM EXPIRING IN                 Mgmt          For                            For
+       2017: BASIL L. ANDERSON
+
+1B.    ELECTION OF DIRECTOR FOR TERM EXPIRING IN                 Mgmt          For                            For
+       2017: ALAN R. BATKIN
+
+1C.    ELECTION OF DIRECTOR FOR TERM EXPIRING IN                 Mgmt          For                            For
+       2017: KENNETH A. BRONFIN
+
+1D.    ELECTION OF DIRECTOR FOR TERM EXPIRING IN                 Mgmt          For                            For
+       2017: MICHAEL R. BURNS
+
+1E.    ELECTION OF DIRECTOR FOR TERM EXPIRING IN                 Mgmt          For                            For
+       2017: CRISPIN H. DAVIS
+
+1F.    ELECTION OF DIRECTOR FOR TERM EXPIRING IN                 Mgmt          For                            For
+       2017: LISA GERSH
+
+1G.    ELECTION OF DIRECTOR FOR TERM EXPIRING IN                 Mgmt          For                            For
+       2017: BRIAN D. GOLDNER
+
+1H.    ELECTION OF DIRECTOR FOR TERM EXPIRING IN                 Mgmt          For                            For
+       2017: ALAN G. HASSENFELD
+
+1I.    ELECTION OF DIRECTOR FOR TERM EXPIRING IN                 Mgmt          For                            For
+       2017: TRACY A. LEINBACH
+
+1J.    ELECTION OF DIRECTOR FOR TERM EXPIRING IN                 Mgmt          For                            For
+       2017: EDWARD M. PHILIP
+
+1K.    ELECTION OF DIRECTOR FOR TERM EXPIRING IN                 Mgmt          For                            For
+       2017: RICHARD S. STODDART
+
+1L.    ELECTION OF DIRECTOR FOR TERM EXPIRING IN                 Mgmt          For                            For
+       2017: LINDA K. ZECHER
+
+2.     THE ADOPTION, ON AN ADVISORY BASIS, OF A                  Mgmt          For                            For
+       RESOLUTION APPROVING THE COMPENSATION OF
+       THE NAMED EXECUTIVE OFFICERS OF HASBRO,
+       INC., AS DESCRIBED IN THE "COMPENSATION
+       DISCUSSION & ANALYSIS" & "EXECUTIVE
+       COMPENSATION" SECTIONS OF THE 2016 PROXY
+       STATEMENT.
+
+3.     RATIFICATION OF THE SELECTION OF KPMG LLP                 Mgmt          For                            For
+       AS HASBRO, INC.'S INDEPENDENT REGISTERED
+       PUBLIC ACCOUNTING FIRM FOR FISCAL 2016.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+ ILLUMINA, INC.                                                                              Agenda Number:  934367079
+--------------------------------------------------------------------------------------------------------------------------
+        Security:  452327109
+    Meeting Type:  Annual
+    Meeting Date:  18-May-2016
+          Ticker:  ILMN
+            ISIN:  US4523271090
+--------------------------------------------------------------------------------------------------------------------------
+
+Prop.# Proposal                                                  Proposal      Proposal Vote                  For/Against
+                                                                 Type                                         Management
+
+1A.    ELECTION OF DIRECTOR: FRANCES ARNOLD, PH.D.               Mgmt          For                            For
+
+1B.    ELECTION OF DIRECTOR: FRANCIS A. DESOUZA                  Mgmt          For                            For
+
+1C.    ELECTION OF DIRECTOR: KARIN EASTHAM, CPA                  Mgmt          For                            For
+
+2.     TO RATIFY THE APPOINTMENT OF ERNST & YOUNG                Mgmt          For                            For
+       LLP AS OUR INDEPENDENT REGISTERED PUBLIC
+       ACCOUNTING FIRM FOR THE FISCAL YEAR ENDING
+       JANUARY 1, 2017.
+
+3.     TO APPROVE, ON AN ADVISORY BASIS, THE                     Mgmt          For                            For
+       COMPENSATION OF THE NAMED EXECUTIVE
+       OFFICERS AS DISCLOSED IN THE PROXY
+       STATEMENT.
+
+4.     TO APPROVE, ON AN ADVISORY BASIS, THE                     Mgmt          Against                        Against
+       RATIFICATION OF CERTAIN SUPERMAJORITY
+       VOTING PROVISIONS IN OUR CERTIFICATE OF
+       INCORPORATION AND BYLAWS.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+ INTERCONTINENTAL EXCHANGE, INC.                                                             Agenda Number:  934362827
+--------------------------------------------------------------------------------------------------------------------------
+        Security:  45866F104
+    Meeting Type:  Annual
+    Meeting Date:  13-May-2016
+          Ticker:  ICE
+            ISIN:  US45866F1049
+--------------------------------------------------------------------------------------------------------------------------
+
+Prop.# Proposal                                                  Proposal      Proposal Vote                  For/Against
+                                                                 Type                                         Management
+
+1A.    ELECTION OF DIRECTOR: CHARLES R. CRISP                    Mgmt          For                            For
+
+1B.    ELECTION OF DIRECTOR: JEAN-MARC FORNERI                   Mgmt          For                            For
+
+1C.    ELECTION OF DIRECTOR: THE RT. HON. THE LORD               Mgmt          For                            For
+       HAGUE OF RICHMOND
+
+1D.    ELECTION OF DIRECTOR: FRED W. HATFIELD                    Mgmt          For                            For
+
+1E.    ELECTION OF DIRECTOR: FREDERIC V. SALERNO                 Mgmt          For                            For
+
+1F.    ELECTION OF DIRECTOR: JEFFREY C. SPRECHER                 Mgmt          For                            For
+
+1G.    ELECTION OF DIRECTOR: JUDITH A. SPRIESER                  Mgmt          For                            For
+
+1H.    ELECTION OF DIRECTOR: VINCENT TESE                        Mgmt          For                            For
+
+2.     TO APPROVE, BY NON-BINDING VOTE, THE                      Mgmt          For                            For
+       ADVISORY RESOLUTION ON EXECUTIVE
+       COMPENSATION FOR NAMED EXECUTIVE OFFICERS.
+
+3.     RATIFY THE APPOINTMENT OF ERNST & YOUNG LLP               Mgmt          For                            For
+       AS OUR INDEPENDENT REGISTERED PUBLIC
+       ACCOUNTING FIRM FOR THE FISCAL YEAR ENDING
+       DECEMBER 31, 2016.
+
+4.     STOCKHOLDER PROPOSAL REGARDING THE                        Shr           Against                        For
+       PREPARATION OF A SUSTAINABILITY REPORT.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+ JPMORGAN CHASE & CO.                                                                        Agenda Number:  934367257
+--------------------------------------------------------------------------------------------------------------------------
+        Security:  46625H100
+    Meeting Type:  Annual
+    Meeting Date:  17-May-2016
+          Ticker:  JPM
+            ISIN:  US46625H1005
+--------------------------------------------------------------------------------------------------------------------------
+
+Prop.# Proposal                                                  Proposal      Proposal Vote                  For/Against
+                                                                 Type                                         Management
+
+1A.    ELECTION OF DIRECTOR: LINDA B. BAMMANN                    Mgmt          For                            For
+
+1B.    ELECTION OF DIRECTOR: JAMES A. BELL                       Mgmt          For                            For
+
+1C.    ELECTION OF DIRECTOR: CRANDALL C. BOWLES                  Mgmt          For                            For
+
+1D.    ELECTION OF DIRECTOR: STEPHEN B. BURKE                    Mgmt          For                            For
+
+1E.    ELECTION OF DIRECTOR: JAMES S. CROWN                      Mgmt          For                            For
+
+1F.    ELECTION OF DIRECTOR: JAMES DIMON                         Mgmt          For                            For
+
+1G.    ELECTION OF DIRECTOR: TIMOTHY P. FLYNN                    Mgmt          For                            For
+
+1H.    ELECTION OF DIRECTOR: LABAN P. JACKSON, JR.               Mgmt          For                            For
+
+1I.    ELECTION OF DIRECTOR: MICHAEL A. NEAL                     Mgmt          For                            For
+
+1J.    ELECTION OF DIRECTOR: LEE R. RAYMOND                      Mgmt          For                            For
+
+1K.    ELECTION OF DIRECTOR: WILLIAM C. WELDON                   Mgmt          For                            For
+
+2.     ADVISORY RESOLUTION TO APPROVE EXECUTIVE                  Mgmt          For                            For
+       COMPENSATION
+
+3.     RATIFICATION OF INDEPENDENT REGISTERED                    Mgmt          For                            For
+       PUBLIC ACCOUNTING FIRM
+
+4.     INDEPENDENT BOARD CHAIRMAN - REQUIRE AN                   Shr           Against                        For
+       INDEPENDENT CHAIR
+
+5.     HOW VOTES ARE COUNTED - COUNT VOTES USING                 Shr           Against                        For
+       ONLY FOR AND AGAINST AND IGNORE ABSTENTIONS
+
+6.     VESTING FOR GOVERNMENT SERVICE -PROHIBIT                  Shr           Against                        For
+       VESTING OF EQUITY-BASED AWARDS FOR SENIOR
+       EXECUTIVES DUE TO VOLUNTARY RESIGNATION TO
+       ENTER GOVERNMENT SERVICE
+
+7.     APPOINT A STOCKHOLDER VALUE COMMITTEE -                   Shr           Against                        For
+       ADDRESS WHETHER DIVESTITURE OF ALL NON-CORE
+       BANKING BUSINESS SEGMENTS WOULD ENHANCE
+       SHAREHOLDER VALUE
+
+8.     CLAWBACK AMENDMENT - DEFER COMPENSATION FOR               Shr           Against                        For
+       10 YEARS TO HELP SATISFY ANY MONETARY
+       PENALTY ASSOCIATED WITH VIOLATION OF LAW
+
+9.     EXECUTIVE COMPENSATION PHILOSOPHY - ADOPT A               Shr           Against                        For
+       BALANCED EXECUTIVE COMPENSATION PHILOSOPHY
+       WITH SOCIAL FACTORS TO IMPROVE THE FIRM'S
+       ETHICAL CONDUCT AND PUBLIC REPUTATION
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+ LOCKHEED MARTIN CORPORATION                                                                 Agenda Number:  934341544
+--------------------------------------------------------------------------------------------------------------------------
+        Security:  539830109
+    Meeting Type:  Annual
+    Meeting Date:  28-Apr-2016
+          Ticker:  LMT
+            ISIN:  US5398301094
+--------------------------------------------------------------------------------------------------------------------------
+
+Prop.# Proposal                                                  Proposal      Proposal Vote                  For/Against
+                                                                 Type                                         Management
+
+1A.    ELECTION OF DIRECTOR: DANIEL F. AKERSON                   Mgmt          For                            For
+
+1B.    ELECTION OF DIRECTOR: NOLAN D. ARCHIBALD                  Mgmt          For                            For
+
+1C.    ELECTION OF DIRECTOR: ROSALIND G. BREWER                  Mgmt          For                            For
+
+1D.    ELECTION OF DIRECTOR: DAVID B. BURRITT                    Mgmt          For                            For
+
+1E.    ELECTION OF DIRECTOR: BRUCE A. CARLSON                    Mgmt          For                            For
+
+1F.    ELECTION OF DIRECTOR: JAMES O. ELLIS, JR.                 Mgmt          For                            For
+
+1G.    ELECTION OF DIRECTOR: THOMAS J. FALK                      Mgmt          For                            For
+
+1H.    ELECTION OF DIRECTOR: MARILLYN A. HEWSON                  Mgmt          For                            For
+
+1I.    ELECTION OF DIRECTOR: JAMES M. LOY                        Mgmt          For                            For
+
+1J.    ELECTION OF DIRECTOR: JOSEPH W. RALSTON                   Mgmt          For                            For
+
+1K.    ELECTION OF DIRECTOR: ANNE STEVENS                        Mgmt          For                            For
+
+2.     RATIFICATION OF APPOINTMENT OF ERNST &                    Mgmt          For                            For
+       YOUNG LLP AS INDEPENDENT AUDITORS FOR 2016
+
+3.     ADVISORY VOTE TO APPROVE THE COMPENSATION                 Mgmt          For                            For
+       OF OUR NAMED EXECUTIVE OFFICERS
+       ("SAY-ON-PAY")
+
+4.     MANAGEMENT PROPOSAL TO RE-APPROVE                         Mgmt          For                            For
+       PERFORMANCE GOALS FOR THE 2011 INCENTIVE
+       PERFORMANCE AWARD PLAN
+
+5.     STOCKHOLDER PROPOSAL ON SPECIAL MEETING                   Shr           For                            Against
+       STOCK OWNERSHIP THRESHOLD
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+ MEDTRONIC PLC                                                                               Agenda Number:  934292436
+--------------------------------------------------------------------------------------------------------------------------
+        Security:  G5960L103
+    Meeting Type:  Annual
+    Meeting Date:  11-Dec-2015
+          Ticker:  MDT
+            ISIN:  IE00BTN1Y115
+--------------------------------------------------------------------------------------------------------------------------
+
+Prop.# Proposal                                                  Proposal      Proposal Vote                  For/Against
+                                                                 Type                                         Management
+
+1A.    ELECTION OF DIRECTOR: RICHARD H. ANDERSON                 Mgmt          For                            For
+
+1B.    ELECTION OF DIRECTOR: CRAIG ARNOLD                        Mgmt          For                            For
+
+1C.    ELECTION OF DIRECTOR: SCOTT C. DONNELLY                   Mgmt          For                            For
+
+1D.    ELECTION OF DIRECTOR: RANDALL HOGAN III                   Mgmt          For                            For
+
+1E.    ELECTION OF DIRECTOR: OMAR ISHRAK                         Mgmt          For                            For
+
+1F.    ELECTION OF DIRECTOR: SHIRLEY A. JACKSON,                 Mgmt          For                            For
+       PH.D.
+
+1G.    ELECTION OF DIRECTOR: MICHAEL O. LEAVITT                  Mgmt          For                            For
+
+1H.    ELECTION OF DIRECTOR: JAMES T. LENEHAN                    Mgmt          For                            For
+
+1I.    ELECTION OF DIRECTOR: ELIZABETH NABEL, M.D.               Mgmt          For                            For
+
+1J.    ELECTION OF DIRECTOR: DENISE M. O'LEARY                   Mgmt          For                            For
+
+1K.    ELECTION OF DIRECTOR: KENDALL J. POWELL                   Mgmt          For                            For
+
+1L.    ELECTION OF DIRECTOR: ROBERT C. POZEN                     Mgmt          For                            For
+
+1M.    ELECTION OF DIRECTOR: PREETHA REDDY                       Mgmt          For                            For
+
+2.     TO RATIFY THE RE-APPOINTMENT OF                           Mgmt          For                            For
+       PRICEWATERHOUSECOOPERS LLP AS MEDTRONIC'S
+       INDEPENDENT AUDITOR FOR FISCAL YEAR 2016
+       AND AUTHORIZE THE BOARD OF DIRECTORS,
+       ACTING THROUGH THE AUDIT COMMITTEE, TO SET
+       ITS REMUNERATION.
+
+3.     TO APPROVE IN A NON-BINDING ADVISORY VOTE,                Mgmt          For                            For
+       NAMED EXECUTIVE OFFICER COMPENSATION (A
+       "SAY-ON-PAY" VOTE).
+
+4.     TO APPROVE, IN A NON-BINDING ADVISORY VOTE,               Mgmt          1 Year                         For
+       THE FREQUENCY OF SAY-ON-PAY VOTES.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+ NETFLIX, INC.                                                                               Agenda Number:  934405968
+--------------------------------------------------------------------------------------------------------------------------
+        Security:  64110L106
+    Meeting Type:  Annual
+    Meeting Date:  09-Jun-2016
+          Ticker:  NFLX
+            ISIN:  US64110L1061
+--------------------------------------------------------------------------------------------------------------------------
+
+Prop.# Proposal                                                  Proposal      Proposal Vote                  For/Against
+                                                                 Type                                         Management
+
+1.     DIRECTOR
+       TIMOTHY M. HALEY                                          Mgmt          For                            For
+       LESLIE KILGORE                                            Mgmt          For                            For
+       ANN MATHER                                                Mgmt          For                            For
+
+2.     TO RATIFY THE APPOINTMENT OF ERNST & YOUNG                Mgmt          For                            For
+       LLP AS THE COMPANY'S INDEPENDENT REGISTERED
+       PUBLIC ACCOUNTING FIRM FOR THE YEAR ENDING
+       DECEMBER 31, 2016.
+
+3.     ADVISORY APPROVAL OF THE COMPANY'S                        Mgmt          For                            For
+       EXECUTIVE OFFICER COMPENSATION.
+
+4.     STOCKHOLDER PROPOSAL REGARDING DIRECTOR                   Shr           For                            Against
+       ELECTION MAJORITY VOTE STANDARD, IF
+       PROPERLY PRESENTED AT THE MEETING.
+
+5.     STOCKHOLDER PROPOSAL REGARDING A PROXY                    Shr           For                            Against
+       ACCESS BYLAW, IF PROPERLY PRESENTED AT THE
+       MEETING.
+
+6.     STOCKHOLDER PROPOSAL REGARDING A SIMPLE                   Shr           For                            Against
+       MAJORITY VOTE, IF PROPERLY PRESENTED AT THE
+       MEETING.
+
+7.     STOCKHOLDER PROPOSAL REGARDING ELECTING                   Shr           For                            Against
+       EACH DIRECTOR ANNUALLY, IF PROPERLY
+       PRESENTED AT THE MEETING.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+ NORTHERN TRUST CORPORATION                                                                  Agenda Number:  934333016
+--------------------------------------------------------------------------------------------------------------------------
+        Security:  665859104
+    Meeting Type:  Annual
+    Meeting Date:  19-Apr-2016
+          Ticker:  NTRS
+            ISIN:  US6658591044
+--------------------------------------------------------------------------------------------------------------------------
+
+Prop.# Proposal                                                  Proposal      Proposal Vote                  For/Against
+                                                                 Type                                         Management
+
+1A.    ELECTION OF DIRECTOR: LINDA WALKER BYNOE                  Mgmt          For                            For
+
+1B.    ELECTION OF DIRECTOR: SUSAN CROWN                         Mgmt          For                            For
+
+1C.    ELECTION OF DIRECTOR: DEAN M. HARRISON                    Mgmt          For                            For
+
+1D.    ELECTION OF DIRECTOR: DIPAK C. JAIN                       Mgmt          For                            For
+
+1E.    ELECTION OF DIRECTOR: JOSE LUIS PRADO                     Mgmt          For                            For
+
+1F.    ELECTION OF DIRECTOR: THOMAS E. RICHARDS                  Mgmt          For                            For
+
+1G.    ELECTION OF DIRECTOR: JOHN W. ROWE                        Mgmt          For                            For
+
+1H.    ELECTION OF DIRECTOR: MARTIN P. SLARK                     Mgmt          For                            For
+
+1I.    ELECTION OF DIRECTOR: DAVID H.B. SMITH, JR.               Mgmt          For                            For
+
+1J.    ELECTION OF DIRECTOR: DONALD THOMPSON                     Mgmt          For                            For
+
+1K.    ELECTION OF DIRECTOR: CHARLES A. TRIBBETT                 Mgmt          For                            For
+       III
+
+1L.    ELECTION OF DIRECTOR: FREDERICK H. WADDELL                Mgmt          For                            For
+
+2.     APPROVAL, BY AN ADVISORY VOTE, OF THE 2015                Mgmt          Against                        Against
+       COMPENSATION OF THE CORPORATION'S NAMED
+       EXECUTIVE OFFICERS.
+
+3.     RATIFICATION OF THE APPOINTMENT OF KPMG LLP               Mgmt          For                            For
+       AS THE CORPORATION'S INDEPENDENT REGISTERED
+       PUBLIC ACCOUNTING FIRM FOR THE FISCAL YEAR
+       ENDING DECEMBER 31, 2016.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+ NXP SEMICONDUCTORS NV.                                                                      Agenda Number:  934423649
+--------------------------------------------------------------------------------------------------------------------------
+        Security:  N6596X109
+    Meeting Type:  Annual
+    Meeting Date:  02-Jun-2016
+          Ticker:  NXPI
+            ISIN:  NL0009538784
+--------------------------------------------------------------------------------------------------------------------------
+
+Prop.# Proposal                                                  Proposal      Proposal Vote                  For/Against
+                                                                 Type                                         Management
+
+2C.    ADOPTION OF THE 2015 STATUTORY ANNUAL                     Mgmt          For                            For
+       ACCOUNTS
+
+2D.    GRANTING DISCHARGE TO THE DIRECTORS FOR                   Mgmt          For                            For
+       THEIR RESPONSIBILITIES IN THE FINANCIAL
+       YEAR 2015
+
+3A.    PROPOSAL TO RE-APPOINT MR. RICHARD L.                     Mgmt          For                            For
+       CLEMMER AS EXECUTIVE DIRECTOR WITH EFFECT
+       FROM JUNE 2, 2016
+
+3B.    PROPOSAL TO RE-APPOINT SIR PETER BONFIELD                 Mgmt          For                            For
+       AS NON-EXECUTIVE DIRECTOR WITH EFFECT FROM
+       JUNE 2, 2016
+
+3C.    PROPOSAL TO RE-APPOINT MR. JOHANNES P. HUTH               Mgmt          For                            For
+       AS NON-EXECUTIVE DIRECTOR WITH EFFECT FROM
+       JUNE 2, 2016
+
+3D.    PROPOSAL TO RE-APPOINT MR. KENNETH A.                     Mgmt          For                            For
+       GOLDMAN AS NON-EXECUTIVE DIRECTOR WITH
+       EFFECT FROM JUNE 2, 2016
+
+3E.    PROPOSAL TO RE-APPOINT DR. MARION HELMES AS               Mgmt          For                            For
+       NON-EXECUTIVE DIRECTOR WITH EFFECT FROM
+       JUNE 2, 2016
+
+3F.    PROPOSAL TO RE-APPOINT MR. JOSEPH KAESER AS               Mgmt          For                            For
+       NON-EXECUTIVE DIRECTOR WITH EFFECT FROM
+       JUNE 2, 2016
+
+3G.    PROPOSAL TO RE-APPOINT MR. IAN LORING AS                  Mgmt          For                            For
+       NON-EXECUTIVE DIRECTOR WITH EFFECT FROM
+       JUNE 2, 2016
+
+3H.    PROPOSAL TO RE-APPOINT MR. ERIC MEURICE AS                Mgmt          For                            For
+       NON-EXECUTIVE DIRECTOR WITH EFFECT FROM
+       JUNE 2, 2016
+
+3I.    PROPOSAL TO RE-APPOINT MR. PETER SMITHAM AS               Mgmt          For                            For
+       NON-EXECUTIVE DIRECTOR WITH EFFECT FROM
+       JUNE 2, 2016
+
+3J.    PROPOSAL TO RE-APPOINT MS. JULIE SOUTHERN                 Mgmt          For                            For
+       AS NON-EXECUTIVE DIRECTOR WITH EFFECT FROM
+       JUNE 2, 2016
+
+3K.    PROPOSAL TO RE-APPOINT MR. GREGORY SUMME AS               Mgmt          For                            For
+       NON-EXECUTIVE DIRECTOR WITH EFFECT FROM
+       JUNE 2, 2016
+
+3L.    PROPOSAL TO APPOINT DR. RICK TSAI AS                      Mgmt          For                            For
+       NON-EXECUTIVE DIRECTOR WITH EFFECT FROM
+       JUNE 2, 2016
+
+4.     PROPOSAL TO DETERMINE THE REMUNERATION OF                 Mgmt          For                            For
+       THE MEMBERS OF THE AUDIT COMMITTEE AND THE
+       NOMINATING AND COMPENSATION COMMITTEE OF
+       THE BOARD OF DIRECTORS
+
+5A.    AUTHORIZATION OF THE BOARD OF DIRECTORS TO                Mgmt          For                            For
+       ISSUE SHARES OR GRANT RIGHTS TO ACQUIRE
+       SHARES
+
+5B.    AUTHORIZATION OF THE BOARD OF DIRECTORS TO                Mgmt          For                            For
+       RESTRICT OR EXCLUDE PRE-EMPTION RIGHTS
+
+6.     AUTHORIZATION OF THE BOARD OF DIRECTORS TO                Mgmt          For                            For
+       REPURCHASE SHARES IN THE COMPANY'S CAPITAL
+
+7.     AUTHORIZATION TO CANCEL REPURCHASED SHARES                Mgmt          For                            For
+       IN THE COMPANY'S CAPITAL
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+ PALO ALTO NETWORKS, INC.                                                                    Agenda Number:  934293654
+--------------------------------------------------------------------------------------------------------------------------
+        Security:  697435105
+    Meeting Type:  Annual
+    Meeting Date:  11-Dec-2015
+          Ticker:  PANW
+            ISIN:  US6974351057
+--------------------------------------------------------------------------------------------------------------------------
+
+Prop.# Proposal                                                  Proposal      Proposal Vote                  For/Against
+                                                                 Type                                         Management
+
+1A.    ELECTION OF DIRECTOR: JOHN M. DONOVAN                     Mgmt          For                            For
+
+1B.    ELECTION OF DIRECTOR: STANLEY J. MERESMAN                 Mgmt          For                            For
+
+1C.    ELECTION OF DIRECTOR: NIR ZUK                             Mgmt          For                            For
+
+2.     TO RATIFY THE APPOINTMENT OF ERNST & YOUNG                Mgmt          For                            For
+       LLP AS PALO ALTO NETWORKS, INC.'S
+       INDEPENDENT REGISTERED PUBLIC ACCOUNTING
+       FIRM FOR ITS FISCAL YEAR ENDING JULY 31,
+       2016.
+
+3.     TO APPROVE AN ADVISORY RESOLUTION ON NAMED                Mgmt          Against                        Against
+       EXECUTIVE OFFICER COMPENSATION.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+ PAYPAL HOLDINGS, INC.                                                                       Agenda Number:  934381726
+--------------------------------------------------------------------------------------------------------------------------
+        Security:  70450Y103
+    Meeting Type:  Annual
+    Meeting Date:  25-May-2016
+          Ticker:  PYPL
+            ISIN:  US70450Y1038
+--------------------------------------------------------------------------------------------------------------------------
+
+Prop.# Proposal                                                  Proposal      Proposal Vote                  For/Against
+                                                                 Type                                         Management
+
+1A.    ELECTION OF DIRECTOR: WENCES CASARES                      Mgmt          For                            For
+
+1B.    ELECTION OF DIRECTOR: JONATHAN CHRISTODORO                Mgmt          For                            For
+
+1C.    ELECTION OF DIRECTOR: JOHN J. DONAHOE                     Mgmt          For                            For
+
+1D.    ELECTION OF DIRECTOR: DAVID W. DORMAN                     Mgmt          For                            For
+
+1E.    ELECTION OF DIRECTOR: GAIL J. MCGOVERN                    Mgmt          For                            For
+
+1F.    ELECTION OF DIRECTOR: DAVID M. MOFFETT                    Mgmt          For                            For
+
+1G.    ELECTION OF DIRECTOR: PIERRE M. OMIDYAR                   Mgmt          For                            For
+
+1H.    ELECTION OF DIRECTOR: DANIEL H. SCHULMAN                  Mgmt          For                            For
+
+1I.    ELECTION OF DIRECTOR: FRANK D. YEARY                      Mgmt          For                            For
+
+2.     ADVISORY VOTE TO APPROVE THE COMPENSATION                 Mgmt          For                            For
+       OF OUR NAMED EXECUTIVE OFFICERS.
+
+3.     ADVISORY VOTE TO APPROVE THE FREQUENCY OF                 Mgmt          1 Year                         For
+       OUR FUTURE STOCKHOLDER ADVISORY VOTES
+       APPROVING THE COMPENSATION OF OUR NAMED
+       EXECUTIVE OFFICERS.
+
+4.     APPROVAL OF THE AMENDMENT AND RESTATEMENT                 Mgmt          For                            For
+       OF OUR 2015 EQUITY INCENTIVE AWARD PLAN.
+
+5.     APPROVAL OF THE AMENDMENT AND RESTATEMENT                 Mgmt          For                            For
+       OF THE PAYPAL EMPLOYEE INCENTIVE PLAN.
+
+6.     RATIFICATION OF THE APPOINTMENT OF                        Mgmt          For                            For
+       PRICEWATERHOUSECOOPERS LLP AS OUR
+       INDEPENDENT AUDITOR FOR 2016.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+ QORVO, INC.                                                                                 Agenda Number:  934254498
+--------------------------------------------------------------------------------------------------------------------------
+        Security:  74736K101
+    Meeting Type:  Annual
+    Meeting Date:  10-Aug-2015
+          Ticker:  QRVO
+            ISIN:  US74736K1016
+--------------------------------------------------------------------------------------------------------------------------
+
+Prop.# Proposal                                                  Proposal      Proposal Vote                  For/Against
+                                                                 Type                                         Management
+
+1.     DIRECTOR
+       RALPH G. QUINSEY                                          Mgmt          For                            For
+       ROBERT A. BRUGGEWORTH                                     Mgmt          For                            For
+       DANIEL A. DILEO                                           Mgmt          For                            For
+       JEFFERY R. GARDNER                                        Mgmt          For                            For
+       CHARLES SCOTT GIBSON                                      Mgmt          For                            For
+       JOHN R. HARDING                                           Mgmt          For                            For
+       DAVID H.Y. HO                                             Mgmt          For                            For
+       RODERICK D. NELSON                                        Mgmt          For                            For
+       DR. WALDEN C. RHINES                                      Mgmt          For                            For
+       WALTER H. WILKINSON, JR                                   Mgmt          For                            For
+
+2.     TO APPROVE, ON AN ADVISORY BASIS, THE                     Mgmt          For                            For
+       COMPENSATION OF OUR NAMED EXECUTIVE
+       OFFICERS (AS DEFINED IN THE PROXY
+       STATEMENT).
+
+3.     TO VOTE, ON AN ADVISORY BASIS, ON THE                     Mgmt          1 Year                         For
+       FREQUENCY OF FUTURE ADVISORY VOTES ON THE
+       COMPENSATION OF OUR NAMED EXECUTIVE
+       OFFICERS.
+
+4.     TO RATIFY THE APPOINTMENT OF KPMG LLP AS                  Mgmt          For                            For
+       OUR INDEPENDENT REGISTERED PUBLIC
+       ACCOUNTING FIRM FOR THE FISCAL YEAR ENDING
+       APRIL 2, 2016.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+ ROPER TECHNOLOGIES, INC.                                                                    Agenda Number:  934407710
+--------------------------------------------------------------------------------------------------------------------------
+        Security:  776696106
+    Meeting Type:  Annual
+    Meeting Date:  27-May-2016
+          Ticker:  ROP
+            ISIN:  US7766961061
+--------------------------------------------------------------------------------------------------------------------------
+
+Prop.# Proposal                                                  Proposal      Proposal Vote                  For/Against
+                                                                 Type                                         Management
+
+1.     DIRECTOR
+       AMY WOODS BRINKLEY                                        Mgmt          For                            For
+       JOHN F. FORT, III                                         Mgmt          For                            For
+       BRIAN D. JELLISON                                         Mgmt          For                            For
+       ROBERT D. JOHNSON                                         Mgmt          For                            For
+       ROBERT E. KNOWLING, JR.                                   Mgmt          For                            For
+       WILBUR J. PREZZANO                                        Mgmt          For                            For
+       LAURA G. THATCHER                                         Mgmt          For                            For
+       RICHARD F. WALLMAN                                        Mgmt          For                            For
+       CHRISTOPHER WRIGHT                                        Mgmt          For                            For
+
+2.     TO CONSIDER, ON A NON-BINDING, ADVISORY                   Mgmt          For                            For
+       BASIS, A RESOLUTION APPROVING THE
+       COMPENSATION OF OUR NAMED EXECUTIVE
+       OFFICERS.
+
+3.     TO RATIFY THE APPOINTMENT OF                              Mgmt          For                            For
+       PRICEWATERHOUSECOOPERS LLP AS THE
+       INDEPENDENT REGISTERED ACCOUNTING FIRM OF
+       THE COMPANY.
+
+4.     TO APPROVE THE ROPER TECHNOLOGIES, INC.                   Mgmt          For                            For
+       2016 INCENTIVE PLAN.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+ STARBUCKS CORPORATION                                                                       Agenda Number:  934322861
+--------------------------------------------------------------------------------------------------------------------------
+        Security:  855244109
+    Meeting Type:  Annual
+    Meeting Date:  23-Mar-2016
+          Ticker:  SBUX
+            ISIN:  US8552441094
+--------------------------------------------------------------------------------------------------------------------------
+
+Prop.# Proposal                                                  Proposal      Proposal Vote                  For/Against
+                                                                 Type                                         Management
+
+1A.    ELECTION OF DIRECTOR: HOWARD SCHULTZ                      Mgmt          For                            For
+
+1B.    ELECTION OF DIRECTOR: WILLIAM W. BRADLEY                  Mgmt          For                            For
+
+1C.    ELECTION OF DIRECTOR: MARY N. DILLON                      Mgmt          For                            For
+
+1D.    ELECTION OF DIRECTOR: ROBERT M. GATES                     Mgmt          For                            For
+
+1E.    ELECTION OF DIRECTOR: MELLODY HOBSON                      Mgmt          For                            For
+
+1F.    ELECTION OF DIRECTOR: KEVIN R. JOHNSON                    Mgmt          For                            For
+
+1G.    ELECTION OF DIRECTOR: JOSHUA COOPER RAMO                  Mgmt          For                            For
+
+1H.    ELECTION OF DIRECTOR: JAMES G. SHENNAN, JR.               Mgmt          For                            For
+
+1I.    ELECTION OF DIRECTOR: CLARA SHIH                          Mgmt          For                            For
+
+1J.    ELECTION OF DIRECTOR: JAVIER G. TERUEL                    Mgmt          For                            For
+
+1K.    ELECTION OF DIRECTOR: MYRON E. ULLMAN, III                Mgmt          For                            For
+
+1L.    ELECTION OF DIRECTOR: CRAIG E. WEATHERUP                  Mgmt          For                            For
+
+2.     ADVISORY RESOLUTION TO APPROVE OUR                        Mgmt          For                            For
+       EXECUTIVE COMPENSATION.
+
+3.     APPROVE AMENDMENT AND RESTATEMENT OF OUR                  Mgmt          For                            For
+       EXECUTIVE MANAGEMENT BONUS PLAN.
+
+4.     RATIFICATION OF SELECTION OF DELOITTE &                   Mgmt          For                            For
+       TOUCHE LLP AS OUR INDEPENDENT REGISTERED
+       PUBLIC ACCOUNTING FIRM FOR FISCAL 2016.
+
+5.     ADOPT PROXY ACCESS BYLAW.                                 Shr           For                            Against
+
+6.     REVIEW POLICIES RELATED TO HUMAN RIGHTS.                  Shr           Against                        For
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+ THE GOLDMAN SACHS GROUP, INC.                                                               Agenda Number:  934373717
+--------------------------------------------------------------------------------------------------------------------------
+        Security:  38141G104
+    Meeting Type:  Annual
+    Meeting Date:  20-May-2016
+          Ticker:  GS
+            ISIN:  US38141G1040
+--------------------------------------------------------------------------------------------------------------------------
+
+Prop.# Proposal                                                  Proposal      Proposal Vote                  For/Against
+                                                                 Type                                         Management
+
+1A.    ELECTION OF DIRECTOR: LLOYD C. BLANKFEIN                  Mgmt          For                            For
+
+1B.    ELECTION OF DIRECTOR: M. MICHELE BURNS                    Mgmt          For                            For
+
+1C.    ELECTION OF DIRECTOR: GARY D. COHN                        Mgmt          For                            For
+
+1D.    ELECTION OF DIRECTOR: MARK FLAHERTY                       Mgmt          For                            For
+
+1E.    ELECTION OF DIRECTOR: WILLIAM W. GEORGE                   Mgmt          For                            For
+
+1F.    ELECTION OF DIRECTOR: JAMES A. JOHNSON                    Mgmt          For                            For
+
+1G.    ELECTION OF DIRECTOR: LAKSHMI N. MITTAL                   Mgmt          For                            For
+
+1H.    ELECTION OF DIRECTOR: ADEBAYO O. OGUNLESI                 Mgmt          For                            For
+
+1I.    ELECTION OF DIRECTOR: PETER OPPENHEIMER                   Mgmt          For                            For
+
+1J.    ELECTION OF DIRECTOR: DEBORA L. SPAR                      Mgmt          For                            For
+
+1K.    ELECTION OF DIRECTOR: MARK E. TUCKER                      Mgmt          For                            For
+
+1L.    ELECTION OF DIRECTOR: DAVID A. VINIAR                     Mgmt          For                            For
+
+1M.    ELECTION OF DIRECTOR: MARK O. WINKELMAN                   Mgmt          For                            For
+
+2.     ADVISORY VOTE TO APPROVE EXECUTIVE                        Mgmt          Against                        Against
+       COMPENSATION (SAY ON PAY)
+
+3.     RATIFICATION OF PRICEWATERHOUSECOOPERS LLP                Mgmt          For                            For
+       AS OUR INDEPENDENT REGISTERED PUBLIC
+       ACCOUNTING FIRM FOR 2016
+
+4.     SHAREHOLDER PROPOSAL TO PROHIBIT VESTING OF               Shr           Against                        For
+       EQUITY AWARDS UPON ENTERING GOVERNMENT
+       SERVICE
+
+5.     SHAREHOLDER PROPOSAL TO CHANGE THE VOTE                   Shr           Against                        For
+       COUNTING STANDARD FOR SHAREHOLDER PROPOSALS
+
+6.     SHAREHOLDER PROPOSAL TO REQUIRE AN                        Shr           Against                        For
+       INDEPENDENT BOARD CHAIRMAN
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+ THE HOME DEPOT, INC.                                                                        Agenda Number:  934359907
+--------------------------------------------------------------------------------------------------------------------------
+        Security:  437076102
+    Meeting Type:  Annual
+    Meeting Date:  19-May-2016
+          Ticker:  HD
+            ISIN:  US4370761029
+--------------------------------------------------------------------------------------------------------------------------
+
+Prop.# Proposal                                                  Proposal      Proposal Vote                  For/Against
+                                                                 Type                                         Management
+
+1A.    ELECTION OF DIRECTOR: GERARD J. ARPEY                     Mgmt          For                            For
+
+1B.    ELECTION OF DIRECTOR: ARI BOUSBIB                         Mgmt          For                            For
+
+1C.    ELECTION OF DIRECTOR: GREGORY D. BRENNEMAN                Mgmt          For                            For
+
+1D.    ELECTION OF DIRECTOR: J. FRANK BROWN                      Mgmt          For                            For
+
+1E.    ELECTION OF DIRECTOR: ALBERT P. CAREY                     Mgmt          For                            For
+
+1F.    ELECTION OF DIRECTOR: ARMANDO CODINA                      Mgmt          For                            For
+
+1G.    ELECTION OF DIRECTOR: HELENA B. FOULKES                   Mgmt          For                            For
+
+1H.    ELECTION OF DIRECTOR: LINDA R. GOODEN                     Mgmt          For                            For
+
+1I.    ELECTION OF DIRECTOR: WAYNE M. HEWETT                     Mgmt          For                            For
+
+1J.    ELECTION OF DIRECTOR: KAREN L. KATEN                      Mgmt          For                            For
+
+1K.    ELECTION OF DIRECTOR: CRAIG A. MENEAR                     Mgmt          For                            For
+
+1L.    ELECTION OF DIRECTOR: MARK VADON                          Mgmt          For                            For
+
+2.     RATIFICATION OF THE APPOINTMENT OF KPMG LLP               Mgmt          For                            For
+
+3.     ADVISORY VOTE TO APPROVE EXECUTIVE                        Mgmt          For                            For
+       COMPENSATION
+
+4.     SHAREHOLDER PROPOSAL REGARDING PREPARATION                Shr           Against                        For
+       OF AN EMPLOYMENT DIVERSITY REPORT
+
+5.     SHAREHOLDER PROPOSAL TO REDUCE THE                        Shr           For                            Against
+       THRESHOLD TO CALL SPECIAL SHAREHOLDER
+       MEETINGS TO 10% OF OUTSTANDING SHARES
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+ THE SHERWIN-WILLIAMS COMPANY                                                                Agenda Number:  934339967
+--------------------------------------------------------------------------------------------------------------------------
+        Security:  824348106
+    Meeting Type:  Annual
+    Meeting Date:  20-Apr-2016
+          Ticker:  SHW
+            ISIN:  US8243481061
+--------------------------------------------------------------------------------------------------------------------------
+
+Prop.# Proposal                                                  Proposal      Proposal Vote                  For/Against
+                                                                 Type                                         Management
+
+1A.    ELECTION OF DIRECTOR: A.F. ANTON                          Mgmt          For                            For
+
+1B.    ELECTION OF DIRECTOR: C.M. CONNOR                         Mgmt          For                            For
+
+1C.    ELECTION OF DIRECTOR: D.F. HODNIK                         Mgmt          For                            For
+
+1D.    ELECTION OF DIRECTOR: T.G. KADIEN                         Mgmt          For                            For
+
+1E.    ELECTION OF DIRECTOR: R.J. KRAMER                         Mgmt          For                            For
+
+1F.    ELECTION OF DIRECTOR: S.J. KROPF                          Mgmt          For                            For
+
+1G.    ELECTION OF DIRECTOR: J.G. MORIKIS                        Mgmt          For                            For
+
+1H.    ELECTION OF DIRECTOR: C.A. POON                           Mgmt          For                            For
+
+1I.    ELECTION OF DIRECTOR: J.M. STROPKI                        Mgmt          For                            For
+
+1J.    ELECTION OF DIRECTOR: M. THORNTON III                     Mgmt          For                            For
+
+1K.    ELECTION OF DIRECTOR: S.H. WUNNING                        Mgmt          For                            For
+
+2.     ADVISORY APPROVAL OF COMPENSATION OF THE                  Mgmt          For                            For
+       NAMED EXECUTIVES.
+
+3.     APPROVAL OF THE 2006 STOCK PLAN FOR                       Mgmt          For                            For
+       NONEMPLOYEE DIRECTORS (AMENDED AND RESTATED
+       AS OF APRIL 20, 2016).
+
+4.     RATIFICATION OF ERNST & YOUNG LLP AS OUR                  Mgmt          For                            For
+       INDEPENDENT REGISTERED PUBLIC ACCOUNTING
+       FIRM FOR 2016.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+ THE WALT DISNEY COMPANY                                                                     Agenda Number:  934321352
+--------------------------------------------------------------------------------------------------------------------------
+        Security:  254687106
+    Meeting Type:  Annual
+    Meeting Date:  03-Mar-2016
+          Ticker:  DIS
+            ISIN:  US2546871060
+--------------------------------------------------------------------------------------------------------------------------
+
+Prop.# Proposal                                                  Proposal      Proposal Vote                  For/Against
+                                                                 Type                                         Management
+
+1A.    ELECTION OF DIRECTOR: SUSAN E. ARNOLD                     Mgmt          For                            For
+
+1B.    ELECTION OF DIRECTOR: JOHN S. CHEN                        Mgmt          For                            For
+
+1C.    ELECTION OF DIRECTOR: JACK DORSEY                         Mgmt          For                            For
+
+1D.    ELECTION OF DIRECTOR: ROBERT A. IGER                      Mgmt          For                            For
+
+1E.    ELECTION OF DIRECTOR: MARIA ELENA                         Mgmt          For                            For
+       LAGOMASINO
+
+1F.    ELECTION OF DIRECTOR: FRED H. LANGHAMMER                  Mgmt          For                            For
+
+1G.    ELECTION OF DIRECTOR: AYLWIN B. LEWIS                     Mgmt          For                            For
+
+1H.    ELECTION OF DIRECTOR: ROBERT W. MATSCHULLAT               Mgmt          For                            For
+
+1I.    ELECTION OF DIRECTOR: MARK G. PARKER                      Mgmt          For                            For
+
+1J.    ELECTION OF DIRECTOR: SHERYL K. SANDBERG                  Mgmt          For                            For
+
+1K.    ELECTION OF DIRECTOR: ORIN C. SMITH                       Mgmt          For                            For
+
+2.     TO RATIFY THE APPOINTMENT OF                              Mgmt          For                            For
+       PRICEWATERHOUSECOOPERS LLP AS THE COMPANY'S
+       REGISTERED PUBLIC ACCOUNTANTS FOR 2016.
+
+3.     TO APPROVE THE ADVISORY RESOLUTION ON                     Mgmt          Against                        Against
+       EXECUTIVE COMPENSATION.
+
+4.     TO APPROVE THE AMENDMENT TO THE RESTATED                  Mgmt          For                            For
+       CERTIFICATE OF INCORPORATION.
+
+5.     TO APPROVE THE SHAREHOLDER PROPOSAL                       Shr           Against                        For
+       RELATING TO SIMPLE MAJORITY VOTE.
+
+6.     TO APPROVE THE SHAREHOLDER PROPOSAL                       Shr           Against                        For
+       RELATING TO LOBBYING DISCLOSURE.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+ THERMO FISHER SCIENTIFIC INC.                                                               Agenda Number:  934367409
+--------------------------------------------------------------------------------------------------------------------------
+        Security:  883556102
+    Meeting Type:  Annual
+    Meeting Date:  18-May-2016
+          Ticker:  TMO
+            ISIN:  US8835561023
+--------------------------------------------------------------------------------------------------------------------------
+
+Prop.# Proposal                                                  Proposal      Proposal Vote                  For/Against
+                                                                 Type                                         Management
+
+1A.    ELECTION OF DIRECTOR: MARC N. CASPER                      Mgmt          For                            For
+
+1B.    ELECTION OF DIRECTOR: NELSON J. CHAI                      Mgmt          For                            For
+
+1C.    ELECTION OF DIRECTOR: C. MARTIN HARRIS                    Mgmt          For                            For
+
+1D.    ELECTION OF DIRECTOR: TYLER JACKS                         Mgmt          For                            For
+
+1E.    ELECTION OF DIRECTOR: JUDY C. LEWENT                      Mgmt          For                            For
+
+1F.    ELECTION OF DIRECTOR: THOMAS J. LYNCH                     Mgmt          For                            For
+
+1G.    ELECTION OF DIRECTOR: JIM P. MANZI                        Mgmt          For                            For
+
+1H.    ELECTION OF DIRECTOR: WILLIAM G. PARRETT                  Mgmt          For                            For
+
+1I.    ELECTION OF DIRECTOR: SCOTT M. SPERLING                   Mgmt          For                            For
+
+1J.    ELECTION OF DIRECTOR: ELAINE S. ULLIAN                    Mgmt          For                            For
+
+2.     AN ADVISORY VOTE TO APPROVE NAMED EXECUTIVE               Mgmt          For                            For
+       OFFICER COMPENSATION.
+
+3.     RATIFICATION OF THE AUDIT COMMITTEE'S                     Mgmt          For                            For
+       SELECTION OF PRICEWATERHOUSECOOPERS LLP AS
+       THE COMPANY'S INDEPENDENT AUDITORS FOR
+       2016.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+ UNDER ARMOUR, INC.                                                                          Agenda Number:  934336997
+--------------------------------------------------------------------------------------------------------------------------
+        Security:  904311107
+    Meeting Type:  Annual
+    Meeting Date:  28-Apr-2016
+          Ticker:  UA
+            ISIN:  US9043111072
+--------------------------------------------------------------------------------------------------------------------------
+
+Prop.# Proposal                                                  Proposal      Proposal Vote                  For/Against
+                                                                 Type                                         Management
+
+1.     DIRECTOR
+       KEVIN A. PLANK                                            Mgmt          For                            For
+       BYRON K. ADAMS, JR.                                       Mgmt          For                            For
+       GEORGE W. BODENHEIMER                                     Mgmt          For                            For
+       DOUGLAS E. COLTHARP                                       Mgmt          For                            For
+       ANTHONY W. DEERING                                        Mgmt          For                            For
+       KAREN W. KATZ                                             Mgmt          For                            For
+       A.B. KRONGARD                                             Mgmt          For                            For
+       WILLIAM R. MCDERMOTT                                      Mgmt          For                            For
+       ERIC T. OLSON                                             Mgmt          For                            For
+       HARVEY L. SANDERS                                         Mgmt          For                            For
+
+2.     TO APPROVE, BY A NON-BINDING ADVISORY VOTE,               Mgmt          For                            For
+       THE COMPENSATION OF EXECUTIVES AS DISCLOSED
+       IN THE "EXECUTIVE COMPENSATION" SECTION OF
+       THE PROXY STATEMENT, INCLUDING THE
+       COMPENSATION DISCUSSION AND ANALYSIS AND
+       TABLES.
+
+3.     RATIFICATION OF APPOINTMENT OF INDEPENDENT                Mgmt          For                            For
+       REGISTERED PUBLIC ACCOUNTING FIRM.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+ VALERO ENERGY CORPORATION                                                                   Agenda Number:  934355860
+--------------------------------------------------------------------------------------------------------------------------
+        Security:  91913Y100
+    Meeting Type:  Annual
+    Meeting Date:  12-May-2016
+          Ticker:  VLO
+            ISIN:  US91913Y1001
+--------------------------------------------------------------------------------------------------------------------------
+
+Prop.# Proposal                                                  Proposal      Proposal Vote                  For/Against
+                                                                 Type                                         Management
+
+1A.    ELECTION OF DIRECTOR: JOSEPH W. GORDER                    Mgmt          For                            For
+
+1B.    ELECTION OF DIRECTOR: DEBORAH P. MAJORAS                  Mgmt          For                            For
+
+1C.    ELECTION OF DIRECTOR: DONALD L. NICKLES                   Mgmt          For                            For
+
+1D.    ELECTION OF DIRECTOR: PHILIP J. PFEIFFER                  Mgmt          For                            For
+
+1E.    ELECTION OF DIRECTOR: ROBERT A. PROFUSEK                  Mgmt          For                            For
+
+1F.    ELECTION OF DIRECTOR: SUSAN KAUFMAN PURCELL               Mgmt          For                            For
+
+1G.    ELECTION OF DIRECTOR: STEPHEN M. WATERS                   Mgmt          For                            For
+
+1H.    ELECTION OF DIRECTOR: RANDALL J.                          Mgmt          For                            For
+       WEISENBURGER
+
+1I.    ELECTION OF DIRECTOR: RAYFORD WILKINS, JR.                Mgmt          For                            For
+
+2.     RATIFY THE APPOINTMENT OF KPMG LLP AS                     Mgmt          For                            For
+       VALERO'S INDEPENDENT REGISTERED PUBLIC
+       ACCOUNTING FIRM FOR 2016.
+
+3.     APPROVE, BY NON-BINDING VOTE, THE 2015                    Mgmt          For                            For
+       COMPENSATION OF OUR NAMED EXECUTIVE
+       OFFICERS.
+
+4.     AMEND VALERO'S RESTATED CERTIFICATE OF                    Mgmt          For                            For
+       INCORPORATION TO DELETE ITS RESTRICTION ON
+       STOCKHOLDERS' ABILITY TO REMOVE DIRECTORS
+       WITHOUT CAUSE.
+
+5.     REAPPROVE THE 2011 OMNIBUS STOCK INCENTIVE                Mgmt          For                            For
+       PLAN.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+ VISA INC.                                                                                   Agenda Number:  934311490
+--------------------------------------------------------------------------------------------------------------------------
+        Security:  92826C839
+    Meeting Type:  Annual
+    Meeting Date:  03-Feb-2016
+          Ticker:  V
+            ISIN:  US92826C8394
+--------------------------------------------------------------------------------------------------------------------------
+
+Prop.# Proposal                                                  Proposal      Proposal Vote                  For/Against
+                                                                 Type                                         Management
+
+1A.    ELECTION OF DIRECTOR: LLOYD A. CARNEY                     Mgmt          For                            For
+
+1B.    ELECTION OF DIRECTOR: MARY B. CRANSTON                    Mgmt          For                            For
+
+1C.    ELECTION OF DIRECTOR: FRANCISCO JAVIER                    Mgmt          For                            For
+       FERNANDEZ-CARBAJAL
+
+1D.    ELECTION OF DIRECTOR: ALFRED F. KELLY, JR.                Mgmt          For                            For
+
+1E.    ELECTION OF DIRECTOR: ROBERT W. MATSCHULLAT               Mgmt          For                            For
+
+1F.    ELECTION OF DIRECTOR: CATHY E. MINEHAN                    Mgmt          For                            For
+
+1G.    ELECTION OF DIRECTOR: SUZANNE NORA JOHNSON                Mgmt          For                            For
+
+1H.    ELECTION OF DIRECTOR: DAVID J. PANG                       Mgmt          For                            For
+
+1I.    ELECTION OF DIRECTOR: CHARLES W. SCHARF                   Mgmt          For                            For
+
+1J.    ELECTION OF DIRECTOR: JOHN A.C. SWAINSON                  Mgmt          For                            For
+
+1K.    ELECTION OF DIRECTOR: MAYNARD G. WEBB, JR.                Mgmt          For                            For
+
+2.     ADVISORY VOTE TO APPROVE EXECUTIVE                        Mgmt          For                            For
+       COMPENSATION.
+
+3.     APPROVAL OF VISA INC. 2007 EQUITY INCENTIVE               Mgmt          For                            For
+       COMPENSATION PLAN, AS AMENDED AND RESTATED.
+
+4.     APPROVAL OF VISA INC. INCENTIVE PLAN, AS                  Mgmt          For                            For
+       AMENDED AND RESTATED.
+
+5.     RATIFICATION OF THE APPOINTMENT OF KPMG LLP               Mgmt          For                            For
+       AS OUR INDEPENDENT REGISTERED PUBLIC
+       ACCOUNTING FIRM FOR THE 2016 FISCAL YEAR.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+ WABTEC CORPORATION                                                                          Agenda Number:  934358133
+--------------------------------------------------------------------------------------------------------------------------
+        Security:  929740108
+    Meeting Type:  Annual
+    Meeting Date:  11-May-2016
+          Ticker:  WAB
+            ISIN:  US9297401088
+--------------------------------------------------------------------------------------------------------------------------
+
+Prop.# Proposal                                                  Proposal      Proposal Vote                  For/Against
+                                                                 Type                                         Management
+
+1.     DIRECTOR
+       ROBERT J. BROOKS                                          Mgmt          For                            For
+       WILLIAM E. KASSLING                                       Mgmt          For                            For
+       ALBERT J. NEUPAVER                                        Mgmt          For                            For
+
+2.     APPROVE AN ADVISORY (NON-BINDING)                         Mgmt          For                            For
+       RESOLUTION RELATING TO THE APPROVAL OF 2015
+       NAMED EXECUTIVE OFFICER COMPENSATION
+
+3.     RATIFY THE APPOINTMENT OF ERNST & YOUNG LLP               Mgmt          For                            For
+       AS OUR INDEPENDENT REGISTERED PUBLIC
+       ACCOUNTING FIRM FOR THE 2016 FISCAL YEAR
+
+4.     APPROVE THE 2011 STOCK INCENTIVE PLAN FOR                 Mgmt          For                            For
+       PURPOSES OF QUALIFICATION UNDER APPLICABLE
+       FRENCH LAW SO THAT EQUITY GRANTS THAT ARE
+       MADE UNDER THE PLAN TO INDIVIDUALS WHO ARE
+       SUBJECT TO TAXATION UNDER FRENCH LAW MAY
+       QUALIFY AS FREE SHARE GRANTS UNDER FRENCH
+       LAW
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+ WELLS FARGO & COMPANY                                                                       Agenda Number:  934339830
+--------------------------------------------------------------------------------------------------------------------------
+        Security:  949746101
+    Meeting Type:  Annual
+    Meeting Date:  26-Apr-2016
+          Ticker:  WFC
+            ISIN:  US9497461015
+--------------------------------------------------------------------------------------------------------------------------
+
+Prop.# Proposal                                                  Proposal      Proposal Vote                  For/Against
+                                                                 Type                                         Management
+
+1A.    ELECTION OF DIRECTOR: JOHN D. BAKER II                    Mgmt          For                            For
+
+1B.    ELECTION OF DIRECTOR: ELAINE L. CHAO                      Mgmt          For                            For
+
+1C.    ELECTION OF DIRECTOR: JOHN S. CHEN                        Mgmt          For                            For
+
+1D.    ELECTION OF DIRECTOR: LLOYD H. DEAN                       Mgmt          For                            For
+
+1E.    ELECTION OF DIRECTOR: ELIZABETH A. DUKE                   Mgmt          For                            For
+
+1F.    ELECTION OF DIRECTOR: SUSAN E. ENGEL                      Mgmt          For                            For
+
+1G.    ELECTION OF DIRECTOR: ENRIQUE HERNANDEZ,                  Mgmt          For                            For
+       JR.
+
+1H.    ELECTION OF DIRECTOR: DONALD M. JAMES                     Mgmt          For                            For
+
+1I.    ELECTION OF DIRECTOR: CYNTHIA H. MILLIGAN                 Mgmt          For                            For
+
+1J.    ELECTION OF DIRECTOR: FEDERICO F. PENA                    Mgmt          For                            For
+
+1K.    ELECTION OF DIRECTOR: JAMES H. QUIGLEY                    Mgmt          For                            For
+
+1L.    ELECTION OF DIRECTOR: STEPHEN W. SANGER                   Mgmt          For                            For
+
+1M.    ELECTION OF DIRECTOR: JOHN G. STUMPF                      Mgmt          For                            For
+
+1N.    ELECTION OF DIRECTOR: SUSAN G. SWENSON                    Mgmt          For                            For
+
+1O.    ELECTION OF DIRECTOR: SUZANNE M. VAUTRINOT                Mgmt          For                            For
+
+2.     VOTE ON AN ADVISORY RESOLUTION TO APPROVE                 Mgmt          For                            For
+       EXECUTIVE COMPENSATION.
+
+3.     RATIFY THE APPOINTMENT OF KPMG LLP AS THE                 Mgmt          For                            For
+       COMPANY'S INDEPENDENT REGISTERED PUBLIC
+       ACCOUNTING FIRM FOR 2016.
+
+4.     ADOPT A POLICY TO REQUIRE AN INDEPENDENT                  Shr           Against                        For
+       CHAIRMAN.
+
+5.     PROVIDE A REPORT ON THE COMPANY'S LOBBYING                Shr           Against                        For
+       POLICIES AND PRACTICES.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+ ZOETIS INC.                                                                                 Agenda Number:  934360493
+--------------------------------------------------------------------------------------------------------------------------
+        Security:  98978V103
+    Meeting Type:  Annual
+    Meeting Date:  12-May-2016
+          Ticker:  ZTS
+            ISIN:  US98978V1035
+--------------------------------------------------------------------------------------------------------------------------
+
+Prop.# Proposal                                                  Proposal      Proposal Vote                  For/Against
+                                                                 Type                                         Management
+
+1.1    ELECTION OF DIRECTOR: JUAN RAMON ALAIX                    Mgmt          For                            For
+
+1.2    ELECTION OF DIRECTOR: PAUL M. BISARO                      Mgmt          For                            For
+
+1.3    ELECTION OF DIRECTOR: FRANK A. D'AMELIO                   Mgmt          For                            For
+
+1.4    ELECTION OF DIRECTOR: MICHAEL B.                          Mgmt          For                            For
+       MCCALLISTER
+
+2.     SAY ON PAY - AN ADVISORY VOTE ON THE                      Mgmt          For                            For
+       APPROVAL OF EXECUTIVE COMPENSATION.
+
+3.     PROPOSAL TO RATIFY KPMG LLP AS OUR                        Mgmt          For                            For
+       INDEPENDENT PUBLIC ACCOUNTING FIRM FOR
+       2016.
+
+
+
+* Management position unknown
+
+</TABLE>
+
+<PAGE>
+
+SIGNATURES
+
+Pursuant to the requirements of the Investment Company Act of 1940, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned, thereunto duly authorized.
+
+(Registrant)         Appleton Funds
+By (Signature)       /s/ Daniel T. Buckley
+Name                 Daniel T. Buckley
+Title                President
+Date                 08/09/2016
+
+</TEXT>
+</DOCUMENT>
