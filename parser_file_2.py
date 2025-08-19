@@ -1,11 +1,5 @@
-# parser_file_2.py
-# This script is specifically designed to parse the 'txt_2.txt' file format.
-# It cleans the file, extracts header and proposal data, and uses a utility
-# to merge and save the final report.
-
 import re
 import pandas as pd
-# Import the shared function from our utility file to handle the final merge and save.
 from utils import merge_and_save_data
 
 def parse_proposals_with_slicing(proposal_table_text, company_id):
@@ -31,7 +25,6 @@ def parse_proposals_with_slicing(proposal_table_text, company_id):
         vote_cast_slice = line[57:67].strip()
         for_against_slice = line[67:].strip()
 
-        # --- The Core Multi-Line Logic ---
         # If the 'issue_no_slice' is not empty, it's a new proposal record.
         if issue_no_slice:
             record = {
@@ -54,21 +47,16 @@ def parse_proposals_with_slicing(proposal_table_text, company_id):
     # Return the final list of parsed proposal data for this company.
     return proposals_data
 
-def process_and_parse_report(raw_file_content):
-    """
-    This is the main engine. It cleans the raw text, then parses out the header
-    and proposal data into two separate DataFrames.
-    """
-    # --- Step 1: Clean the raw file content in memory ---
-    # Remove the file header (everything before the long underscore line).
+def process_and_parse_report(raw_file_content): #It cleans the raw text, then parses out the header and proposal data into two separate DataFrames.I
+
     header_pattern = r'^.*?(?=____________________________________________________________________)'
     content_no_header = re.sub(header_pattern, '', raw_file_content, count=1, flags=re.DOTALL)
     # Remove the file footer (everything from the SIGNATURES section to the end).
     footer_pattern = r'<PAGE>\s+SIGNATURES.*'
     cleaned_content = re.sub(footer_pattern, '', content_no_header, flags=re.DOTALL).strip()
 
-    # --- Step 2: Define Regex for parsing the company headers ---
-    # This complex regex is designed to capture all the fields from the multi-line header block.
+    
+    # capture all the fields from the multi-line header block.
     header_pattern_re = re.compile(
         r"^(?P<CompanyName>.*?)\n"
         r"Ticker\s+Security ID:\s+Meeting Date\s+Meeting Status\n"
@@ -76,8 +64,6 @@ def process_and_parse_report(raw_file_content):
         r"Meeting Type\s+Country of Trade\n"
         r"(?P<MeetingType>\S*)\s+(?P<CountryOfTrade>.*?)\s*$", re.MULTILINE
     )
-
-    # --- Step 3: Parse the cleaned content block by block ---
     # Split the cleaned text into a list of "blocks", one for each company.
     company_blocks = cleaned_content.split('____________________________________________________________________')
     all_headers_data, all_proposals_data = [], []
@@ -117,20 +103,16 @@ def process_and_parse_report(raw_file_content):
     return df_headers, df_proposals
 
 def main():
-    """
-    The main function that orchestrates the entire process: reading the file,
-    calling the parser, and then calling the utility to save the result.
-    """
     input_filename = "txt_2.txt"
-    output_filename = "schwab_output.xlsx"
-    print(f"--- Starting parser for {input_filename} ---")
+    output_filename = "file2_output.xlsx"
+    print(f"Starting parser for {input_filename} ")
 
     try:
         # Read the raw text file into memory.
         with open(input_filename, 'r', encoding='utf-8') as f:
             raw_content = f.read()
     except FileNotFoundError:
-        print(f"❌ ERROR: Input file '{input_filename}' not found.")
+        print(f"ERROR: Input file '{input_filename}' not found.")
         return
 
     # Step 1: Call the main processing function to get the two DataFrames.
